@@ -1,0 +1,114 @@
+genereer_seizoen:
+  name: Genereer seizoen
+  description: Genereert of vernieuwt de trainingsplanning.
+  fields:
+    entry_id:
+      name: Configuratie
+      selector:
+        config_entry:
+voeg_drill_toe:
+  name: Voeg drill toe
+  description: Voegt een bestaande catalogusdrill toe aan een sessieblok.
+  fields:
+    session_uid:
+      name: Sessie-ID
+      required: true
+      selector:
+        text:
+    block:
+      name: Blok
+      required: true
+      selector:
+        select:
+          options:
+            - label: Basisblok
+              value: foundation
+            - label: Thema 1
+              value: theme_1
+            - label: Thema 2
+              value: theme_2
+            - label: Afsluiting
+              value: closing
+    drill_id:
+      name: Drill-ID
+      required: true
+      selector:
+        text:
+verwijder_drill:
+  name: Verwijder drill
+  description: Verwijdert een drill uit een sessieblok.
+  fields:
+    session_uid:
+      name: Sessie-ID
+      required: true
+      selector:
+        text:
+    block:
+      name: Blok
+      required: true
+      selector:
+        select:
+          options:
+            - label: Basisblok
+              value: foundation
+            - label: Thema 1
+              value: theme_1
+            - label: Thema 2
+              value: theme_2
+            - label: Afsluiting
+              value: closing
+    drill_id:
+      name: Drill-ID
+      required: true
+      selector:
+        text:
+wissel_drill:
+  name: Vervang drill
+  description: Vervangt een specifieke drill in een sessieblok.
+  fields:
+    session_uid:
+      name: Sessie-ID
+      required: true
+      selector:
+        text:
+    block:
+      name: Blok
+      required: true
+      selector:
+        select:
+          options:
+            - label: Basisblok
+              value: foundation
+            - label: Thema 1
+              value: theme_1
+            - label: Thema 2
+              value: theme_2
+            - label: Afsluiting
+              value: closing
+    old_drill_id:
+      name: Huidige drill-ID
+      required: true
+      selector:
+        text:
+    drill_id:
+      name: Nieuwe drill-ID
+      required: true
+      selector:
+        text:
+exporteer_sessie:
+  name: Exporteer sessie
+  description: Geeft een platte WhatsApp-tekst terug.
+  fields:
+    session_uid:
+      name: Sessie-ID
+      required: true
+      selector:
+        text:
+exporteer_ical:
+  name: Exporteer agenda
+  description: Geeft RFC 5545 iCalendar-tekst terug.
+  fields:
+    entry_id:
+      name: Configuratie
+      selector:
+        config_entry:

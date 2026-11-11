@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "infield_ready_position",
+    "schema_version": 1,
+    "name": "Ready position",
+    "name_nl": "Ready position",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Ready position traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_fielding_triangle",
+    "schema_version": 1,
+    "name": "Fielding triangle",
+    "name_nl": "Fielding triangle",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Fielding triangle traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_groundball_basic",
+    "schema_version": 1,
+    "name": "Grondbal basis",
+    "name_nl": "Grondbal basis",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Grondbal basis traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_short_hops",
+    "schema_version": 1,
+    "name": "Short-hop series",
+    "name_nl": "Short-hop series",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Short-hop series traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_forehand_backhand",
+    "schema_version": 1,
+    "name": "Forehand en backhand",
+    "name_nl": "Forehand en backhand",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Forehand en backhand traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_bare_hand_slow_roller",
+    "schema_version": 1,
+    "name": "Bare-hand slow roller",
+    "name_nl": "Bare-hand slow roller",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Bare-hand slow roller traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_wall_ball",
+    "schema_version": 1,
+    "name": "Wall-ball korte hop",
+    "name_nl": "Wall-ball korte hop",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Wall-ball korte hop traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_three_cone_approach",
+    "schema_version": 1,
+    "name": "Drie-cone approach",
+    "name_nl": "Drie-cone approach",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Drie-cone approach traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_charge_slow_roller",
+    "schema_version": 1,
+    "name": "Slow roller aanvallen",
+    "name_nl": "Slow roller aanvallen",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Slow roller aanvallen traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_throw_on_run",
+    "schema_version": 1,
+    "name": "Gooien uit de loop",
+    "name_nl": "Gooien uit de loop",
+    "category": "infield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Gooien uit de loop traint groundballs in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_double_play_feed_turn",
+    "schema_version": 1,
+    "name": "Double-play feed en turn",
+    "name_nl": "Double-play feed en turn",
+    "category": "infield",
+    "subcategories": [
+      "double_play"
+    ],
+    "skills": [
+      "double_play"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Double-play feed en turn traint double play in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F0MwVYtimb8",
+      "title": "Double Play Infield Tips and Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_double_play_pivot",
+    "schema_version": 1,
+    "name": "Double-play pivot",
+    "name_nl": "Double-play pivot",
+    "category": "infield",
+    "subcategories": [
+      "double_play"
+    ],
+    "skills": [
+      "double_play"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Double-play pivot traint double play in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_first_base_footwork",
+    "schema_version": 1,
+    "name": "Eerste-honk voetwerk",
+    "name_nl": "Eerste-honk voetwerk",
+    "category": "infield",
+    "subcategories": [
+      "first_base"
+    ],
+    "skills": [
+      "first_base"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Eerste-honk voetwerk traint first base in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=U0NEYy3A8K8",
+      "title": "First Base Drills - Fundamentals of First Base",
+      "channel": "IMG Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_first_base_short_hops",
+    "schema_version": 1,
+    "name": "Eerste-honk short hops",
+    "name_nl": "Eerste-honk short hops",
+    "category": "infield",
+    "subcategories": [
+      "first_base"
+    ],
+    "skills": [
+      "first_base"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Eerste-honk short hops traint first base in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_tag_play",
+    "schema_version": 1,
+    "name": "Tag-play techniek",
+    "name_nl": "Tag-play techniek",
+    "category": "infield",
+    "subcategories": [
+      "tags"
+    ],
+    "skills": [
+      "tags"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Tag-play techniek traint tags in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "infield_popup_priority",
+    "schema_version": 1,
+    "name": "Pop-up prioriteit",
+    "name_nl": "Pop-up prioriteit",
+    "category": "infield",
+    "subcategories": [
+      "communication"
+    ],
+    "skills": [
+      "communication"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Pop-up prioriteit traint communication in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Zet een startcone en doelpositie uit.",
+      "Coach rolt of slaat controleerbare grondballen.",
+      "Werper/ontvanger staat achter een veilige lijn."
+    ],
+    "execution": [
+      "Werk eerst langzaam door de voetwerkvolgorde.",
+      "Field 6-8 gecontroleerde ballen met correcte transfer.",
+      "Voeg daarna richting, snelheid of een beslismoment toe."
+    ],
+    "coaching_points": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "coach_cues": [
+      "Laag benaderen, bal voor het lichaam.",
+      "Zachte handen, snelle voeten.",
+      "Beweeg na de vangst door naar het doel."
+    ],
+    "common_mistakes": [
+      "Rechtop naar de bal lopen.",
+      "De bal onder het lichaam fielden.",
+      "Voeten stoppen vóór de worp."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Infield Drills and Techniques.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=QaXiNUOzJ2k",
+      "title": "BEST INFIELD DRILL: 3 Cone Drill",
+      "channel": "ZONED Sports Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

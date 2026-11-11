@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "baserunning_ready_first_step",
+    "schema_version": 1,
+    "name": "Ready stance en eerste stap",
+    "name_nl": "Ready stance en eerste stap",
+    "category": "baserunning",
+    "subcategories": [
+      "starts"
+    ],
+    "skills": [
+      "starts"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Ready stance en eerste stap traint starts in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_home_first_sprint",
+    "schema_version": 1,
+    "name": "Home-to-first sprint",
+    "name_nl": "Home-to-first sprint",
+    "category": "baserunning",
+    "subcategories": [
+      "starts"
+    ],
+    "skills": [
+      "starts"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Home-to-first sprint traint starts in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_primary_lead",
+    "schema_version": 1,
+    "name": "Primary lead",
+    "name_nl": "Primary lead",
+    "category": "baserunning",
+    "subcategories": [
+      "primary_leads"
+    ],
+    "skills": [
+      "primary_leads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Primary lead traint primary leads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=X_C0uu7SC5s",
+      "title": "Leads - Baserunning Fundamentals",
+      "channel": "IMG Academy",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_secondary_lead",
+    "schema_version": 1,
+    "name": "Secondary lead en reactie",
+    "name_nl": "Secondary lead en reactie",
+    "category": "baserunning",
+    "subcategories": [
+      "secondary_leads"
+    ],
+    "skills": [
+      "secondary_leads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Secondary lead en reactie traint secondary leads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_dive_back",
+    "schema_version": 1,
+    "name": "Lead en dive-back",
+    "name_nl": "Lead en dive-back",
+    "category": "baserunning",
+    "subcategories": [
+      "primary_leads"
+    ],
+    "skills": [
+      "primary_leads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Lead en dive-back traint primary leads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_steal_first_move",
+    "schema_version": 1,
+    "name": "Steal start op first move",
+    "name_nl": "Steal start op first move",
+    "category": "baserunning",
+    "subcategories": [
+      "stealing"
+    ],
+    "skills": [
+      "stealing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Steal start op first move traint stealing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_read_pitcher",
+    "schema_version": 1,
+    "name": "Pitcher lezen",
+    "name_nl": "Pitcher lezen",
+    "category": "baserunning",
+    "subcategories": [
+      "stealing"
+    ],
+    "skills": [
+      "stealing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Pitcher lezen traint stealing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_delayed_steal",
+    "schema_version": 1,
+    "name": "Delayed steal",
+    "name_nl": "Delayed steal",
+    "category": "baserunning",
+    "subcategories": [
+      "stealing"
+    ],
+    "skills": [
+      "stealing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Delayed steal traint stealing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_round_first",
+    "schema_version": 1,
+    "name": "Eerste honk ronden",
+    "name_nl": "Eerste honk ronden",
+    "category": "baserunning",
+    "subcategories": [
+      "rounding"
+    ],
+    "skills": [
+      "rounding"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Eerste honk ronden traint rounding in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_cone_curve",
+    "schema_version": 1,
+    "name": "Cone-curve bochten",
+    "name_nl": "Cone-curve bochten",
+    "category": "baserunning",
+    "subcategories": [
+      "rounding"
+    ],
+    "skills": [
+      "rounding"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Cone-curve bochten traint rounding in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_first_to_third",
+    "schema_version": 1,
+    "name": "Eerste naar derde",
+    "name_nl": "Eerste naar derde",
+    "category": "baserunning",
+    "subcategories": [
+      "rounding"
+    ],
+    "skills": [
+      "rounding"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Eerste naar derde traint rounding in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_tag_up",
+    "schema_version": 1,
+    "name": "Tag-up op fly ball",
+    "name_nl": "Tag-up op fly ball",
+    "category": "baserunning",
+    "subcategories": [
+      "reads"
+    ],
+    "skills": [
+      "reads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Tag-up op fly ball traint reads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_contact_read",
+    "schema_version": 1,
+    "name": "Reactie op contact",
+    "name_nl": "Reactie op contact",
+    "category": "baserunning",
+    "subcategories": [
+      "reads"
+    ],
+    "skills": [
+      "reads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Reactie op contact traint reads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_pitch_dirt_read",
+    "schema_version": 1,
+    "name": "Pitch-in-the-dirt read",
+    "name_nl": "Pitch-in-the-dirt read",
+    "category": "baserunning",
+    "subcategories": [
+      "reads"
+    ],
+    "skills": [
+      "reads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Pitch-in-the-dirt read traint reads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_sliding_basics",
+    "schema_version": 1,
+    "name": "Sliding techniek basis",
+    "name_nl": "Sliding techniek basis",
+    "category": "baserunning",
+    "subcategories": [
+      "sliding"
+    ],
+    "skills": [
+      "sliding"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Sliding techniek basis traint sliding in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "baserunning_rundown_escape",
+    "schema_version": 1,
+    "name": "Ontsnappen uit rundown",
+    "name_nl": "Ontsnappen uit rundown",
+    "category": "baserunning",
+    "subcategories": [
+      "reads"
+    ],
+    "skills": [
+      "reads"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Ontsnappen uit rundown traint reads in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Leg honken of vlakke matten neer; gebruik cones als routepunten.",
+      "Wijs start-, keer- en stopzone aan.",
+      "Laat één groep tegelijk door de looproute gaan."
+    ],
+    "execution": [
+      "Loop de route eenmaal stapvoets.",
+      "Voer 4-6 herhalingen uit op 70-80%.",
+      "Voeg een visuele of auditieve read toe en laat spelers beslissen."
+    ],
+    "coaching_points": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "coach_cues": [
+      "Laag en op de bal van de voeten.",
+      "Eerste stap zonder tegenbeweging.",
+      "Lees, beslis en committeer."
+    ],
+    "common_mistakes": [
+      "Hakstand en valse eerste stap.",
+      "Naar de bal blijven kijken zonder beslissing.",
+      "Te grote lead zonder terugkeerpositie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baserunning Drills & Techniques.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=F18_lmOgAzQ",
+      "title": "Youth Practice Plan Series | Leads and Steals",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

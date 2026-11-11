@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "conditioning_dynamic_mobility",
+    "schema_version": 1,
+    "name": "Dynamische mobiliteit",
+    "name_nl": "Dynamische mobiliteit",
+    "category": "conditioning",
+    "subcategories": [
+      "mobility"
+    ],
+    "skills": [
+      "mobility"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Gewrichten en spieren dynamisch voorbereiden op sprinten, gooien en slaan.",
+    "setup": [
+      "Maak een korte baan/circuit met voldoende ruimte."
+    ],
+    "execution": [
+      "Werk 20-30 seconden per beweging.",
+      "Beweeg gecontroleerd door de beschikbare range.",
+      "Herhaal 1-2 rondes zonder vermoeidheid na te jagen."
+    ],
+    "coaching_points": [
+      "Soepel bewegen.",
+      "Romp gecontroleerd.",
+      "Geen pijn forceren."
+    ],
+    "coach_cues": [
+      "Soepel bewegen",
+      "Romp gecontroleerd",
+      "Geen pijn forceren"
+    ],
+    "common_mistakes": [
+      "Statisch lang rekken vóór explosief werk.",
+      "Te snel bewegen.",
+      "Pijn als normale stretch accepteren."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_band_arm_care",
+    "schema_version": 1,
+    "name": "Resistance-band arm care",
+    "name_nl": "Resistance-band arm care",
+    "category": "conditioning",
+    "subcategories": [
+      "arm_care"
+    ],
+    "skills": [
+      "arm_care"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Schouderblad en rotator cuff activeren met lichte weerstand en goede controle.",
+    "setup": [
+      "Gebruik lichte resistance bands met veilige bevestiging."
+    ],
+    "execution": [
+      "Bevestig lichte band veilig op schouderhoogte.",
+      "Doe pull-aparts, external/internal rotation en diagonals met 10-15 rustige reps.",
+      "Geen maximale weerstand: dit is arm care, geen Strongman-kwalificatie."
+    ],
+    "coaching_points": [
+      "Lichte weerstand.",
+      "Schouder weg van oor.",
+      "Controle boven range."
+    ],
+    "coach_cues": [
+      "Lichte weerstand",
+      "Schouder weg van oor",
+      "Controle boven range"
+    ],
+    "common_mistakes": [
+      "Te zware band.",
+      "Romp meedraaien.",
+      "Door scherpe pijn heen trainen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_scapular_control",
+    "schema_version": 1,
+    "name": "Scapular control Y-T-W",
+    "name_nl": "Scapular control Y-T-W",
+    "category": "conditioning",
+    "subcategories": [
+      "arm_care"
+    ],
+    "skills": [
+      "arm_care"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Schouderblad en rotator cuff activeren met lichte weerstand en goede controle.",
+    "setup": [
+      "Gebruik lichte resistance bands met veilige bevestiging."
+    ],
+    "execution": [
+      "Voer iedere beweging 10-15 keer langzaam uit.",
+      "Houd schouderblad gecontroleerd en elleboog/romp stabiel.",
+      "Stop ruim vóór vermoeidheid de techniek verandert."
+    ],
+    "coaching_points": [
+      "Lichte weerstand.",
+      "Schouder weg van oor.",
+      "Controle boven range."
+    ],
+    "coach_cues": [
+      "Lichte weerstand",
+      "Schouder weg van oor",
+      "Controle boven range"
+    ],
+    "common_mistakes": [
+      "Te zware band.",
+      "Romp meedraaien.",
+      "Door scherpe pijn heen trainen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_core_rotation",
+    "schema_version": 1,
+    "name": "Core-rotatie voor slagmensen",
+    "name_nl": "Core-rotatie voor slagmensen",
+    "category": "conditioning",
+    "subcategories": [
+      "core"
+    ],
+    "skills": [
+      "core"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Rompstabiliteit en rotatiekracht trainen die overdraagbaar is naar slaan en gooien.",
+    "setup": [
+      "Gebruik band of lichte medicine ball als nodig."
+    ],
+    "execution": [
+      "Zet stabiele athletic stance.",
+      "Voer gecontroleerde rotatie of anti-rotatie uit.",
+      "Doe 2-3 sets van 6-10 kwaliteitreps per kant."
+    ],
+    "coaching_points": [
+      "Ribben boven bekken.",
+      "Heupen en romp gecontroleerd.",
+      "Adem door."
+    ],
+    "coach_cues": [
+      "Ribben boven bekken",
+      "Heupen en romp gecontroleerd",
+      "Adem door"
+    ],
+    "common_mistakes": [
+      "Uit onderrug draaien.",
+      "Te zwaar materiaal.",
+      "Tempo boven controle."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_anti_rotation",
+    "schema_version": 1,
+    "name": "Pallof press anti-rotatie",
+    "name_nl": "Pallof press anti-rotatie",
+    "category": "conditioning",
+    "subcategories": [
+      "core"
+    ],
+    "skills": [
+      "core"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Rompstabiliteit en rotatiekracht trainen die overdraagbaar is naar slaan en gooien.",
+    "setup": [
+      "Gebruik band of lichte medicine ball als nodig."
+    ],
+    "execution": [
+      "Zet stabiele athletic stance.",
+      "Voer gecontroleerde rotatie of anti-rotatie uit.",
+      "Doe 2-3 sets van 6-10 kwaliteitreps per kant."
+    ],
+    "coaching_points": [
+      "Ribben boven bekken.",
+      "Heupen en romp gecontroleerd.",
+      "Adem door."
+    ],
+    "coach_cues": [
+      "Ribben boven bekken",
+      "Heupen en romp gecontroleerd",
+      "Adem door"
+    ],
+    "common_mistakes": [
+      "Uit onderrug draaien.",
+      "Te zwaar materiaal.",
+      "Tempo boven controle."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_agility_ladder",
+    "schema_version": 1,
+    "name": "Agility-ladder honkbalvoetwerk",
+    "name_nl": "Agility-ladder honkbalvoetwerk",
+    "category": "conditioning",
+    "subcategories": [
+      "agility"
+    ],
+    "skills": [
+      "agility"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Korte richtingsveranderingen en voetenwerk trainen zonder wedstrijdspecifieke techniek te vervuilen.",
+    "setup": [
+      "Leg ladder of 3-5 cones met 1-2 meter afstand."
+    ],
+    "execution": [
+      "Loop patroon eerst rustig.",
+      "Verhoog tempo zodra voetplaatsing klopt.",
+      "Voeg daarna een coachcue voor links/rechts toe."
+    ],
+    "coaching_points": [
+      "Licht op de voeten.",
+      "Heupen laag.",
+      "Rem vóór je van richting verandert."
+    ],
+    "coach_cues": [
+      "Licht op de voeten",
+      "Heupen laag",
+      "Rem vóór je van richting verandert"
+    ],
+    "common_mistakes": [
+      "Alleen voeten zo snel mogelijk bewegen.",
+      "Bovenlichaam uit balans.",
+      "Cones overslaan voor tijd."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_lateral_cones",
+    "schema_version": 1,
+    "name": "Laterale cone-drills",
+    "name_nl": "Laterale cone-drills",
+    "category": "conditioning",
+    "subcategories": [
+      "agility"
+    ],
+    "skills": [
+      "agility"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Korte richtingsveranderingen en voetenwerk trainen zonder wedstrijdspecifieke techniek te vervuilen.",
+    "setup": [
+      "Leg ladder of 3-5 cones met 1-2 meter afstand."
+    ],
+    "execution": [
+      "Loop patroon eerst rustig.",
+      "Verhoog tempo zodra voetplaatsing klopt.",
+      "Voeg daarna een coachcue voor links/rechts toe."
+    ],
+    "coaching_points": [
+      "Licht op de voeten.",
+      "Heupen laag.",
+      "Rem vóór je van richting verandert."
+    ],
+    "coach_cues": [
+      "Licht op de voeten",
+      "Heupen laag",
+      "Rem vóór je van richting verandert"
+    ],
+    "common_mistakes": [
+      "Alleen voeten zo snel mogelijk bewegen.",
+      "Bovenlichaam uit balans.",
+      "Cones overslaan voor tijd."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_sprinter_starts",
+    "schema_version": 1,
+    "name": "Sprinter starts",
+    "name_nl": "Sprinter starts",
+    "category": "conditioning",
+    "subcategories": [
+      "speed"
+    ],
+    "skills": [
+      "speed"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "De eerste 5-15 meter versnelling verbeteren met goede start- en sprinttechniek.",
+    "setup": [
+      "Markeer 5, 10 en eventueel 15 meter."
+    ],
+    "execution": [
+      "Neem athletic startpositie.",
+      "Sprint op cue maximaal 5-15 meter.",
+      "Neem volledige rust tussen 4-6 kwalitatieve reps."
+    ],
+    "coaching_points": [
+      "Hard eerste drie stappen.",
+      "Lichaam eerst licht voorover.",
+      "Volledige rust voor kwaliteit."
+    ],
+    "coach_cues": [
+      "Hard eerste drie stappen",
+      "Lichaam eerst licht voorover",
+      "Volledige rust voor kwaliteit"
+    ],
+    "common_mistakes": [
+      "Te veel herhalingen.",
+      "Direct rechtop sprinten.",
+      "Afremmen vóór de lijn."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_shuttle_runs",
+    "schema_version": 1,
+    "name": "Korte shuttle runs",
+    "name_nl": "Korte shuttle runs",
+    "category": "conditioning",
+    "subcategories": [
+      "speed"
+    ],
+    "skills": [
+      "speed"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "De eerste 5-15 meter versnelling verbeteren met goede start- en sprinttechniek.",
+    "setup": [
+      "Markeer 5, 10 en eventueel 15 meter."
+    ],
+    "execution": [
+      "Neem athletic startpositie.",
+      "Sprint op cue maximaal 5-15 meter.",
+      "Neem volledige rust tussen 4-6 kwalitatieve reps."
+    ],
+    "coaching_points": [
+      "Hard eerste drie stappen.",
+      "Lichaam eerst licht voorover.",
+      "Volledige rust voor kwaliteit."
+    ],
+    "coach_cues": [
+      "Hard eerste drie stappen",
+      "Lichaam eerst licht voorover",
+      "Volledige rust voor kwaliteit"
+    ],
+    "common_mistakes": [
+      "Te veel herhalingen.",
+      "Direct rechtop sprinten.",
+      "Afremmen vóór de lijn."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_light_box_jumps",
+    "schema_version": 1,
+    "name": "Lichte box jumps",
+    "name_nl": "Lichte box jumps",
+    "category": "conditioning",
+    "subcategories": [
+      "power"
+    ],
+    "skills": [
+      "power"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Explosieve kracht trainen met lage volumes en volledige technische controle.",
+    "setup": [
+      "Gebruik stabiele lage box of lichte medicine ball afhankelijk van drill."
+    ],
+    "execution": [
+      "Voer 3-5 explosieve reps uit.",
+      "Land of vang gecontroleerd.",
+      "Rust voldoende en herhaal 2-3 sets."
+    ],
+    "coaching_points": [
+      "Explosief omhoog/vooruit.",
+      "Zachte landing.",
+      "Kwaliteit boven volume."
+    ],
+    "coach_cues": [
+      "Explosief omhoog/vooruit",
+      "Zachte landing",
+      "Kwaliteit boven volume"
+    ],
+    "common_mistakes": [
+      "Te hoge box of zware bal.",
+      "Vermoeid door blijven springen.",
+      "Knieën naar binnen bij landing."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_medicine_ball_rotation",
+    "schema_version": 1,
+    "name": "Medicine-ball rotatieworp",
+    "name_nl": "Medicine-ball rotatieworp",
+    "category": "conditioning",
+    "subcategories": [
+      "power"
+    ],
+    "skills": [
+      "power"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Explosieve kracht trainen met lage volumes en volledige technische controle.",
+    "setup": [
+      "Gebruik stabiele lage box of lichte medicine ball afhankelijk van drill."
+    ],
+    "execution": [
+      "Voer 3-5 explosieve reps uit.",
+      "Land of vang gecontroleerd.",
+      "Rust voldoende en herhaal 2-3 sets."
+    ],
+    "coaching_points": [
+      "Explosief omhoog/vooruit.",
+      "Zachte landing.",
+      "Kwaliteit boven volume."
+    ],
+    "coach_cues": [
+      "Explosief omhoog/vooruit",
+      "Zachte landing",
+      "Kwaliteit boven volume"
+    ],
+    "common_mistakes": [
+      "Te hoge box of zware bal.",
+      "Vermoeid door blijven springen.",
+      "Knieën naar binnen bij landing."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "conditioning_cooldown_stretch",
+    "schema_version": 1,
+    "name": "Cooling-down en stretching",
+    "name_nl": "Cooling-down en stretching",
+    "category": "conditioning",
+    "subcategories": [
+      "recovery"
+    ],
+    "skills": [
+      "recovery"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "cones"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Hartslag rustig verlagen en na de training bewegingsvrijheid herstellen.",
+    "setup": [
+      "Maak rustige ruimte vrij; geen intensieve materialen nodig."
+    ],
+    "execution": [
+      "Loop 1-2 minuten rustig uit.",
+      "Rek de belangrijkste spiergroepen 20-30 seconden zonder pijn.",
+      "Adem rustig en gebruik dit ook als korte team-debrief."
+    ],
+    "coaching_points": [
+      "Rustig ademen.",
+      "Geen veren in stretch.",
+      "Milde spanning, geen pijn."
+    ],
+    "coach_cues": [
+      "Rustig ademen",
+      "Geen veren in stretch",
+      "Milde spanning, geen pijn"
+    ],
+    "common_mistakes": [
+      "Cooling-down als extra workout behandelen.",
+      "Hard doorduwen in stretch.",
+      "Direct stilvallen na maximale inspanning."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Swing Speed & Power.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=2pF7urDEi4M",
+      "title": "Baseball Arm Care Exercises",
+      "channel": "Ultimate Baseball Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

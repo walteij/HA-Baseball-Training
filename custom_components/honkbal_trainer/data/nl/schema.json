@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Honkbal Trainer Drill",
+  "type": "object",
+  "required": [
+    "id",
+    "name_nl",
+    "category",
+    "duration_minutes",
+    "setup",
+    "execution",
+    "coach_cues",
+    "common_mistakes",
+    "safety_notes",
+    "youtube",
+    "selection"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "category": {
+      "enum": [
+        "batting",
+        "pitching",
+        "catching",
+        "infield",
+        "outfield",
+        "throwing",
+        "baserunning",
+        "situational",
+        "conditioning"
+      ]
+    },
+    "youtube": {
+      "type": "object",
+      "required": [
+        "url",
+        "title",
+        "channel",
+        "verified_on",
+        "match_quality"
+      ]
+    }
+  }
+}

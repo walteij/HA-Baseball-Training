@@ -1,0 +1,101 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Honkbal Trainer instellen",
+        "description": "Stel het team, de trainingsdagen en de sessieplanning in.",
+        "data": {
+          "team_name": "Teamnaam",
+          "training_days": "Trainingsdagen (kies twee)",
+          "training_time": "Starttijd",
+          "session_minutes": "Sessieduur in minuten",
+          "warmup_minutes": "Warming-upduur in minuten",
+          "start_date": "Startdatum (JJJJ-MM-DD)",
+          "weeks": "Aantal weken"
+        },
+        "errors": {
+          "invalid_date_or_time": "Vul een geldige datum en tijd in.",
+          "invalid_session_duration": "De sessieduur moet passend deelbaar zijn over de trainingsblokken.",
+          "invalid_training_days": "Kies twee verschillende trainingsdagen."
+        }
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Er kan maar één team worden ingesteld."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Trainingsomgeving",
+        "description": "Geef materiaal, zaal en voorkeuren op.",
+        "data": {
+          "equipment": "Beschikbaar materiaal",
+          "room_size": "Zaalgrootte",
+          "floor_type": "Vloertype",
+          "hard_balls_allowed": "Harde ballen toegestaan",
+          "max_throwing_distance_m": "Maximale werpafstand (m)",
+          "hitting_lanes": "Aantal veilige hitting lanes/netten",
+          "focus_override": "Focusoverride",
+          "youtube_language": "Voorkeurstaal YouTube"
+        },
+        "errors": {
+          "resistance_bands_required": "De vaste warming-up vereist weerstandsbanden."
+        }
+      }
+    }
+  },
+  "entity": {
+    "calendar": {
+      "training": {
+        "name": "Honkbal Training"
+      }
+    },
+    "sensor": {
+      "volgende_training": {"name": "Volgende training"},
+      "huidig_thema": {"name": "Huidig thema"},
+      "huidige_week": {"name": "Huidige week"},
+      "programma_voortgang": {"name": "Programma voortgang"},
+      "sessie_status": {"name": "Sessie status"},
+      "warming_up": {"name": "Warming-up"},
+      "basis_drill": {"name": "Basisdrill"},
+      "drill_1": {"name": "Drill 1"},
+      "drill_2": {"name": "Drill 2"},
+      "afsluiting": {"name": "Afsluiting"},
+      "totaal_trainingen": {"name": "Totaal trainingen"},
+      "drill_catalogus_count": {"name": "Aantal drills in catalogus"}
+    },
+    "select": {
+      "thema_override": {
+        "name": "Thema override",
+        "state": {
+          "volgens_programma": "Volgens programma",
+          "batting": "Slagtraining",
+          "pitching": "Werpen",
+          "catching": "Vangen",
+          "infield": "Binnenveld",
+          "outfield": "Buitenveld",
+          "throwing": "Gooien",
+          "baserunning": "Honklopen",
+          "situational": "Spelsituaties",
+          "conditioning": "Conditie"
+        }
+      },
+      "focus": {
+        "name": "Focus",
+        "state": {
+          "techniek": "Techniek",
+          "spelplezier": "Spelplezier",
+          "conditie": "Conditie",
+          "herstel": "Herstel"
+        }
+      }
+    },
+    "button": {
+      "start_training": {"name": "Start training"},
+      "voltooi_training": {"name": "Voltooi training"},
+      "volgende_drill": {"name": "Volgende drill"},
+      "genereer_planning": {"name": "Genereer planning"}
+    }
+  }
+}

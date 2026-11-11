@@ -1,0 +1,1139 @@
+[
+  {
+    "id": "throwing_four_seam_grip",
+    "schema_version": 1,
+    "name": "4-seam grip",
+    "name_nl": "4-seam grip",
+    "category": "throwing",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen, technisch goede worp ontwikkelen met 4-seam grip en gebruik van het hele lichaam.",
+    "setup": [
+      "Vorm tweetallen met veilige afstand.",
+      "Markeer doelvak op borsthoogte."
+    ],
+    "execution": [
+      "Pak de bal met wijs- en middelvinger dwars over de brede naden.",
+      "Laat een kleine ruimte tussen bal en handpalm.",
+      "Maak korte worpen en controleer na iedere transfer of de grip snel gevonden wordt."
+    ],
+    "coaching_points": [
+      "4-seam grip.",
+      "Voeten en schouders naar target.",
+      "Finish in balans."
+    ],
+    "coach_cues": [
+      "4-seam grip",
+      "Voeten en schouders naar target",
+      "Finish in balans"
+    ],
+    "common_mistakes": [
+      "Bal in de handpalm klemmen.",
+      "Alleen met de arm gooien.",
+      "Te snel afstand vergroten."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=YQkUrg4obaA",
+      "title": "How to Throw a Four Seam Fastball",
+      "channel": "Driveline Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_wrist_flips",
+    "schema_version": 1,
+    "name": "Wrist flips",
+    "name_nl": "Wrist flips",
+    "category": "throwing",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen, technisch goede worp ontwikkelen met 4-seam grip en gebruik van het hele lichaam.",
+    "setup": [
+      "Vorm tweetallen met veilige afstand.",
+      "Markeer doelvak op borsthoogte."
+    ],
+    "execution": [
+      "Begin kort en rustig.",
+      "Organiseer grip, schouders en voeten naar target.",
+      "Bouw afstand of tempo op, nooit beide tegelijk."
+    ],
+    "coaching_points": [
+      "4-seam grip.",
+      "Voeten en schouders naar target.",
+      "Finish in balans."
+    ],
+    "coach_cues": [
+      "4-seam grip",
+      "Voeten en schouders naar target",
+      "Finish in balans"
+    ],
+    "common_mistakes": [
+      "Bal in de handpalm klemmen.",
+      "Alleen met de arm gooien.",
+      "Te snel afstand vergroten."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_knee_throws",
+    "schema_version": 1,
+    "name": "Knieworpen",
+    "name_nl": "Knieworpen",
+    "category": "throwing",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen, technisch goede worp ontwikkelen met 4-seam grip en gebruik van het hele lichaam.",
+    "setup": [
+      "Vorm tweetallen met veilige afstand.",
+      "Markeer doelvak op borsthoogte."
+    ],
+    "execution": [
+      "Begin kort en rustig.",
+      "Organiseer grip, schouders en voeten naar target.",
+      "Bouw afstand of tempo op, nooit beide tegelijk."
+    ],
+    "coaching_points": [
+      "4-seam grip.",
+      "Voeten en schouders naar target.",
+      "Finish in balans."
+    ],
+    "coach_cues": [
+      "4-seam grip",
+      "Voeten en schouders naar target",
+      "Finish in balans"
+    ],
+    "common_mistakes": [
+      "Bal in de handpalm klemmen.",
+      "Alleen met de arm gooien.",
+      "Te snel afstand vergroten."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_power_position",
+    "schema_version": 1,
+    "name": "Power-position throws",
+    "name_nl": "Power-position throws",
+    "category": "throwing",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen, technisch goede worp ontwikkelen met 4-seam grip en gebruik van het hele lichaam.",
+    "setup": [
+      "Vorm tweetallen met veilige afstand.",
+      "Markeer doelvak op borsthoogte."
+    ],
+    "execution": [
+      "Begin kort en rustig.",
+      "Organiseer grip, schouders en voeten naar target.",
+      "Bouw afstand of tempo op, nooit beide tegelijk."
+    ],
+    "coaching_points": [
+      "4-seam grip.",
+      "Voeten en schouders naar target.",
+      "Finish in balans."
+    ],
+    "coach_cues": [
+      "4-seam grip",
+      "Voeten en schouders naar target",
+      "Finish in balans"
+    ],
+    "common_mistakes": [
+      "Bal in de handpalm klemmen.",
+      "Alleen met de arm gooien.",
+      "Te snel afstand vergroten."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_shuffle_throw",
+    "schema_version": 1,
+    "name": "Shuffle en worp",
+    "name_nl": "Shuffle en worp",
+    "category": "throwing",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen, technisch goede worp ontwikkelen met 4-seam grip en gebruik van het hele lichaam.",
+    "setup": [
+      "Vorm tweetallen met veilige afstand.",
+      "Markeer doelvak op borsthoogte."
+    ],
+    "execution": [
+      "Begin kort en rustig.",
+      "Organiseer grip, schouders en voeten naar target.",
+      "Bouw afstand of tempo op, nooit beide tegelijk."
+    ],
+    "coaching_points": [
+      "4-seam grip.",
+      "Voeten en schouders naar target.",
+      "Finish in balans."
+    ],
+    "coach_cues": [
+      "4-seam grip",
+      "Voeten en schouders naar target",
+      "Finish in balans"
+    ],
+    "common_mistakes": [
+      "Bal in de handpalm klemmen.",
+      "Alleen met de arm gooien.",
+      "Te snel afstand vergroten."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_crow_hop_throw",
+    "schema_version": 1,
+    "name": "Crow hop en worp",
+    "name_nl": "Crow hop en worp",
+    "category": "throwing",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen, technisch goede worp ontwikkelen met 4-seam grip en gebruik van het hele lichaam.",
+    "setup": [
+      "Vorm tweetallen met veilige afstand.",
+      "Markeer doelvak op borsthoogte."
+    ],
+    "execution": [
+      "Begin kort en rustig.",
+      "Organiseer grip, schouders en voeten naar target.",
+      "Bouw afstand of tempo op, nooit beide tegelijk."
+    ],
+    "coaching_points": [
+      "4-seam grip.",
+      "Voeten en schouders naar target.",
+      "Finish in balans."
+    ],
+    "coach_cues": [
+      "4-seam grip",
+      "Voeten en schouders naar target",
+      "Finish in balans"
+    ],
+    "common_mistakes": [
+      "Bal in de handpalm klemmen.",
+      "Alleen met de arm gooien.",
+      "Te snel afstand vergroten."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_quick_transfer",
+    "schema_version": 1,
+    "name": "Snelle transfer en release",
+    "name_nl": "Snelle transfer en release",
+    "category": "throwing",
+    "subcategories": [
+      "quick_release"
+    ],
+    "skills": [
+      "quick_release"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Transfer en release verkorten terwijl de worp vangbaar blijft.",
+    "setup": [
+      "Werk in tweetallen op korte tot middelafstand."
+    ],
+    "execution": [
+      "Ontvang de bal voor het lichaam.",
+      "Breng glove en werphand samen, pak snel 4-seam en organiseer voeten.",
+      "Gooi direct naar borsthoogte en reset."
+    ],
+    "coaching_points": [
+      "Voeten snel, handen compact.",
+      "Grip tijdens transfer.",
+      "Quick betekent niet gehaast."
+    ],
+    "coach_cues": [
+      "Voeten snel, handen compact",
+      "Grip tijdens transfer",
+      "Quick betekent niet gehaast"
+    ],
+    "common_mistakes": [
+      "Wild gooien voor snelheid.",
+      "Extra crow hop op korte afstand.",
+      "Bal zoeken in de hand."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_accuracy_target",
+    "schema_version": 1,
+    "name": "Doelgericht gooien",
+    "name_nl": "Doelgericht gooien",
+    "category": "throwing",
+    "subcategories": [
+      "accuracy"
+    ],
+    "skills": [
+      "accuracy"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Vangbare worpen consequent op het gekozen target afleveren.",
+    "setup": [
+      "Markeer 2-3 kleine targets op veilige afstand."
+    ],
+    "execution": [
+      "Kies een target voor iedere worp.",
+      "Gooi series van vijf en tel treffers/vangbare worpen.",
+      "Verander afstand alleen als accuracy stabiel blijft."
+    ],
+    "coaching_points": [
+      "Kijk door je target.",
+      "Stap naar het doel.",
+      "Vangbaar boven hard."
+    ],
+    "coach_cues": [
+      "Kijk door je target",
+      "Stap naar het doel",
+      "Vangbaar boven hard"
+    ],
+    "common_mistakes": [
+      "Te veel kracht.",
+      "Voorste voet naast het doel.",
+      "Resultaat corrigeren met alleen de arm."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_throw_on_run",
+    "schema_version": 1,
+    "name": "Gooien uit de loop",
+    "name_nl": "Gooien uit de loop",
+    "category": "throwing",
+    "subcategories": [
+      "quick_release"
+    ],
+    "skills": [
+      "quick_release"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Transfer en release verkorten terwijl de worp vangbaar blijft.",
+    "setup": [
+      "Werk in tweetallen op korte tot middelafstand."
+    ],
+    "execution": [
+      "Ontvang de bal voor het lichaam.",
+      "Breng glove en werphand samen, pak snel 4-seam en organiseer voeten.",
+      "Gooi direct naar borsthoogte en reset."
+    ],
+    "coaching_points": [
+      "Voeten snel, handen compact.",
+      "Grip tijdens transfer.",
+      "Quick betekent niet gehaast."
+    ],
+    "coach_cues": [
+      "Voeten snel, handen compact",
+      "Grip tijdens transfer",
+      "Quick betekent niet gehaast"
+    ],
+    "common_mistakes": [
+      "Wild gooien voor snelheid.",
+      "Extra crow hop op korte afstand.",
+      "Bal zoeken in de hand."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Hrgdr_t5Bwk",
+      "title": "Youth Practice Plan Series | Throwing Program",
+      "channel": "American Baseball Coaches Association",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "throwing_long_toss_progression",
+    "schema_version": 1,
+    "name": "Long-toss progression",
+    "name_nl": "Long-toss progression",
+    "category": "throwing",
+    "subcategories": [
+      "long_toss"
+    ],
+    "skills": [
+      "long_toss"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De werpafstand geleidelijk vergroten zonder techniek of armcomfort op te offeren.",
+    "setup": [
+      "Gebruik de langste veilige zaalafstand.",
+      "Werk in vaste tweetallen en markeer afstanden."
+    ],
+    "execution": [
+      "Begin op korte afstand met losse worpen.",
+      "Ga in kleine stappen verder uit elkaar zolang de bal met normale techniek aankomt.",
+      "Kom daarna geleidelijk weer naar binnen met lage, vangbare worpen."
+    ],
+    "coaching_points": [
+      "Afstand volgt techniek.",
+      "Gebruik benen en romp.",
+      "Geen maximale effort indoor."
+    ],
+    "coach_cues": [
+      "Afstand volgt techniek",
+      "Gebruik benen en romp",
+      "Geen maximale effort indoor"
+    ],
+    "common_mistakes": [
+      "Afstand forceren.",
+      "Boog steeds hoger maken om verder te komen.",
+      "Doorgaan bij arm- of schouderpijn."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Practice Plans and Drills.pdf",
+      "Infield Drills and Techniques.pdf",
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Dako4zqyN2Y",
+      "title": "How To Long Toss The Right Way",
+      "channel": "YouGoProBaseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "foundation"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

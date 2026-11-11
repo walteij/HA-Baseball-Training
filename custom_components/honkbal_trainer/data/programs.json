@@ -1,0 +1,13 @@
+{
+  "weeks": [
+    ["batting", "infield"],
+    ["pitching", "catching"],
+    ["batting", "baserunning"],
+    ["infield", "outfield", "throwing"],
+    ["pitching", "catching"],
+    ["batting", "situational"],
+    ["infield", "catching"],
+    ["batting", "pitching"]
+  ],
+  "sessions_per_week": 2
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-11-11",
+  "total_drills": 135,
+  "counts": {
+    "batting": 22,
+    "pitching": 16,
+    "catching": 15,
+    "infield": 16,
+    "outfield": 14,
+    "throwing": 10,
+    "baserunning": 16,
+    "situational": 14,
+    "conditioning": 12
+  },
+  "deduplication": "Varianten met dezelfde setup en hetzelfde leerdoel zijn samengevoegd; wezenlijk andere besliscontexten blijven afzonderlijk.",
+  "youtube_policy": "Elke drill heeft een bestaande gecontroleerde video. exact betekent één-op-één; related/fundamentals gebruikt een bredere instructievideo die de techniek dekt.",
+  "language_policy": "Coachuitleg is in gewoon Nederlands; gangbare honkbaltermen blijven waar functioneel in het Engels.",
+  "content_revision": "Alle description/setup/execution/coaching_points/coach_cues/common_mistakes/safety_notes/variations inhoudelijk herschreven voor de specifieke trainingsdomeinen."
+}

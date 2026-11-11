@@ -1,0 +1,77 @@
+{
+  "batting": [
+    "approach",
+    "bat_control",
+    "bunting",
+    "contact",
+    "mechanics",
+    "power",
+    "timing"
+  ],
+  "pitching": [
+    "accuracy",
+    "fielding",
+    "grips",
+    "mechanics",
+    "mental",
+    "release"
+  ],
+  "catching": [
+    "blocking",
+    "game_management",
+    "receiving",
+    "throwing"
+  ],
+  "infield": [
+    "communication",
+    "double_play",
+    "first_base",
+    "groundballs",
+    "tags"
+  ],
+  "outfield": [
+    "communication",
+    "flyballs",
+    "groundballs",
+    "relay",
+    "team_defense",
+    "throwing"
+  ],
+  "throwing": [
+    "accuracy",
+    "long_toss",
+    "mechanics",
+    "quick_release"
+  ],
+  "baserunning": [
+    "primary_leads",
+    "reads",
+    "rounding",
+    "secondary_leads",
+    "sliding",
+    "starts",
+    "stealing"
+  ],
+  "situational": [
+    "backing_up",
+    "bunt_defense",
+    "communication",
+    "cutoffs",
+    "decision_making",
+    "first_and_third",
+    "game_awareness",
+    "offense",
+    "positioning",
+    "rundowns",
+    "signs"
+  ],
+  "conditioning": [
+    "agility",
+    "arm_care",
+    "core",
+    "mobility",
+    "power",
+    "recovery",
+    "speed"
+  ]
+}

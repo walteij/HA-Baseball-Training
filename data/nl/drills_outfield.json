@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "outfield_ready_position",
+    "schema_version": 1,
+    "name": "Outfield ready position",
+    "name_nl": "Outfield ready position",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in ready position.",
+      "Coach speelt de bal links, rechts of achter de speler.",
+      "Neem direct de juiste drop/crossover step en loop een vloeiende route naar de bal."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_drop_step",
+    "schema_version": 1,
+    "name": "Drop step",
+    "name_nl": "Drop step",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in outfield ready position.",
+      "Coach wijst/gooit links- of rechtsachter de speler.",
+      "Open onmiddellijk met de juiste drop step en kruis door naar de bal zonder eerst naar voren te stappen."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=tH9-7NyhtTg",
+      "title": "Outfield Tips - The Drop and Hop Step",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_crossover_route",
+    "schema_version": 1,
+    "name": "Crossover en routehoek",
+    "name_nl": "Crossover en routehoek",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in ready position.",
+      "Coach speelt de bal links, rechts of achter de speler.",
+      "Neem direct de juiste drop/crossover step en loop een vloeiende route naar de bal."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_partner_flyballs",
+    "schema_version": 1,
+    "name": "Partner fly balls",
+    "name_nl": "Partner fly balls",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in ready position.",
+      "Coach speelt de bal links, rechts of achter de speler.",
+      "Neem direct de juiste drop/crossover step en loop een vloeiende route naar de bal."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_quarterback_drill",
+    "schema_version": 1,
+    "name": "Quarterback drill",
+    "name_nl": "Quarterback drill",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in ready position.",
+      "Coach speelt de bal links, rechts of achter de speler.",
+      "Neem direct de juiste drop/crossover step en loop een vloeiende route naar de bal."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_communication_flyball",
+    "schema_version": 1,
+    "name": "Vliegbalcommunicatie",
+    "name_nl": "Vliegbalcommunicatie",
+    "category": "outfield",
+    "subcategories": [
+      "communication"
+    ],
+    "skills": [
+      "communication"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Fly balls tussen meerdere velders vroeg en ondubbelzinnig claimen.",
+    "setup": [
+      "Plaats 2-3 outfielders met overlappende zones."
+    ],
+    "execution": [
+      "Coach speelt ballen tussen zones.",
+      "Speler met beste hoek claimt vroeg.",
+      "Andere spelers bevestigen door ruimte te geven en back-up te nemen."
+    ],
+    "coaching_points": [
+      "Vroeg roepen.",
+      "Blijf roepen tot de bal is gevangen.",
+      "Back-up na de call."
+    ],
+    "coach_cues": [
+      "Vroeg roepen",
+      "Blijf roepen tot de bal is gevangen",
+      "Back-up na de call"
+    ],
+    "common_mistakes": [
+      "Late call.",
+      "Alle spelers blijven naar dezelfde bal lopen.",
+      "Na de catch geen vervolgpositie."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_groundball_safe",
+    "schema_version": 1,
+    "name": "Outfield groundball veilig",
+    "name_nl": "Outfield groundball veilig",
+    "category": "outfield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een outfield groundball passend bij risico en spelsituatie veilig verwerken.",
+    "setup": [
+      "Markeer veilige en do-or-die varianten.",
+      "Gebruik target/cutoff voor vervolgactie."
+    ],
+    "execution": [
+      "Speel eerst een groundball zonder tijdsdruk.",
+      "Bij veilige variant: lichaam achter de bal; bij do-or-die: aanvalslijn en snelle pickup.",
+      "Maak aansluitend een crow hop of snelle worp."
+    ],
+    "coaching_points": [
+      "Ken de situatie vóór de bal.",
+      "Veilig als de bal niet voorbij mag.",
+      "Do-or-die alleen als de play daarom vraagt."
+    ],
+    "coach_cues": [
+      "Ken de situatie vóór de bal",
+      "Veilig als de bal niet voorbij mag",
+      "Do-or-die alleen als de play daarom vraagt"
+    ],
+    "common_mistakes": [
+      "Elke groundball hetzelfde fielden.",
+      "Te vroeg naar de worp kijken.",
+      "Bal langs het lichaam laten lopen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_do_or_die",
+    "schema_version": 1,
+    "name": "Do-or-die groundball",
+    "name_nl": "Do-or-die groundball",
+    "category": "outfield",
+    "subcategories": [
+      "groundballs"
+    ],
+    "skills": [
+      "groundballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Een outfield groundball passend bij risico en spelsituatie veilig verwerken.",
+    "setup": [
+      "Markeer veilige en do-or-die varianten.",
+      "Gebruik target/cutoff voor vervolgactie."
+    ],
+    "execution": [
+      "Speel eerst een groundball zonder tijdsdruk.",
+      "Bij veilige variant: lichaam achter de bal; bij do-or-die: aanvalslijn en snelle pickup.",
+      "Maak aansluitend een crow hop of snelle worp."
+    ],
+    "coaching_points": [
+      "Ken de situatie vóór de bal.",
+      "Veilig als de bal niet voorbij mag.",
+      "Do-or-die alleen als de play daarom vraagt."
+    ],
+    "coach_cues": [
+      "Ken de situatie vóór de bal",
+      "Veilig als de bal niet voorbij mag",
+      "Do-or-die alleen als de play daarom vraagt"
+    ],
+    "common_mistakes": [
+      "Elke groundball hetzelfde fielden.",
+      "Te vroeg naar de worp kijken.",
+      "Bal langs het lichaam laten lopen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_crow_hop",
+    "schema_version": 1,
+    "name": "Crow hop",
+    "name_nl": "Crow hop",
+    "category": "outfield",
+    "subcategories": [
+      "throwing"
+    ],
+    "skills": [
+      "throwing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Momentum uit de vangst of pickup omzetten in een krachtige, gecontroleerde outfieldworp.",
+    "setup": [
+      "Gebruik een cutoff/target en voldoende veilige afstand."
+    ],
+    "execution": [
+      "Field of vang de bal met momentum richting target.",
+      "Zet de throwing-side voet onder het lichaam en maak de crow hop vooruit.",
+      "Land gericht en gooi een lage, vangbare lijn naar cutoff."
+    ],
+    "coaching_points": [
+      "Voeten naar target.",
+      "Momentum vooruit.",
+      "Vangbare lage lijn."
+    ],
+    "coach_cues": [
+      "Voeten naar target",
+      "Momentum vooruit",
+      "Vangbare lage lijn"
+    ],
+    "common_mistakes": [
+      "Rechtop stilstaan vóór de worp.",
+      "Crow hop zijwaarts maken.",
+      "Overgooien van de cutoff."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=g7Oa9ntktVw",
+      "title": "OUTFIELD Pro Step & Crow Hop",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_throw_cutoff",
+    "schema_version": 1,
+    "name": "Worp naar cutoff",
+    "name_nl": "Worp naar cutoff",
+    "category": "outfield",
+    "subcategories": [
+      "relay"
+    ],
+    "skills": [
+      "relay"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De bal via cutoff/relay snel en in één lijn naar het juiste honk krijgen.",
+    "setup": [
+      "Plaats outfielder, cutoff en target in één corridor."
+    ],
+    "execution": [
+      "Outfielder fieldt en gooit naar de glove-zijde van de cutoff.",
+      "Cutoff staat open naar het einddoel en maakt een snelle transfer.",
+      "Herhaal met verschillende doelen/calls."
+    ],
+    "coaching_points": [
+      "Lijn bal-cutoff-doel.",
+      "Twee handen bij transfer.",
+      "Luister naar de call."
+    ],
+    "coach_cues": [
+      "Lijn bal-cutoff-doel",
+      "Twee handen bij transfer",
+      "Luister naar de call"
+    ],
+    "common_mistakes": [
+      "Cutoff staat met rug naar target.",
+      "Hoge regenboogworp.",
+      "Worp vasthouden terwijl de play al duidelijk is."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_relay_alignment",
+    "schema_version": 1,
+    "name": "Relay-uitlijning",
+    "name_nl": "Relay-uitlijning",
+    "category": "outfield",
+    "subcategories": [
+      "relay"
+    ],
+    "skills": [
+      "relay"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De bal via cutoff/relay snel en in één lijn naar het juiste honk krijgen.",
+    "setup": [
+      "Plaats outfielder, cutoff en target in één corridor."
+    ],
+    "execution": [
+      "Outfielder fieldt en gooit naar de glove-zijde van de cutoff.",
+      "Cutoff staat open naar het einddoel en maakt een snelle transfer.",
+      "Herhaal met verschillende doelen/calls."
+    ],
+    "coaching_points": [
+      "Lijn bal-cutoff-doel.",
+      "Twee handen bij transfer.",
+      "Luister naar de call."
+    ],
+    "coach_cues": [
+      "Lijn bal-cutoff-doel",
+      "Twee handen bij transfer",
+      "Luister naar de call"
+    ],
+    "common_mistakes": [
+      "Cutoff staat met rug naar target.",
+      "Hoge regenboogworp.",
+      "Worp vasthouden terwijl de play al duidelijk is."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_wall_awareness",
+    "schema_version": 1,
+    "name": "Wall awareness",
+    "name_nl": "Wall awareness",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in ready position.",
+      "Coach speelt de bal links, rechts of achter de speler.",
+      "Neem direct de juiste drop/crossover step en loop een vloeiende route naar de bal."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_catch_on_move",
+    "schema_version": 1,
+    "name": "Vangen in beweging",
+    "name_nl": "Vangen in beweging",
+    "category": "outfield",
+    "subcategories": [
+      "flyballs"
+    ],
+    "skills": [
+      "flyballs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "De eerste stap en route naar een fly ball verbeteren en gecontroleerd onder de bal komen.",
+    "setup": [
+      "Gebruik tennis- of safetyballen in de zaal.",
+      "Markeer start en vangzone; controleer plafond en muren."
+    ],
+    "execution": [
+      "Start in ready position.",
+      "Coach speelt de bal links, rechts of achter de speler.",
+      "Neem direct de juiste drop/crossover step en loop een vloeiende route naar de bal."
+    ],
+    "coaching_points": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat.",
+      "Loop naar de plek, niet onder de bal mee.",
+      "Vang aan de werpkant als dat kan."
+    ],
+    "coach_cues": [
+      "Eerste stap weg van de bal als hij over je hoofd gaat",
+      "Loop naar de plek, niet onder de bal mee",
+      "Vang aan de werpkant als dat kan"
+    ],
+    "common_mistakes": [
+      "Eerst naar voren stappen.",
+      "Onder de bal driften.",
+      "Tijdens het lopen voortdurend naar achteren kijken zonder route."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "outfield_backup_routes",
+    "schema_version": 1,
+    "name": "Back-uproutes",
+    "name_nl": "Back-uproutes",
+    "category": "outfield",
+    "subcategories": [
+      "team_defense"
+    ],
+    "skills": [
+      "team_defense"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "medium",
+    "description": "Outfielders automatisch naar de juiste back-up- en vervolgpositie laten bewegen.",
+    "setup": [
+      "Zet honken/cutoffs uit met cones.",
+      "Gebruik simpele spelsituaties."
+    ],
+    "execution": [
+      "Coach noemt balrichting en lopers.",
+      "Spelers bewegen onmiddellijk naar primary, cutoff of back-up route.",
+      "Freeze de rep en controleer posities vóór de worp."
+    ],
+    "coaching_points": [
+      "Beweeg op contact.",
+      "Back-up in lijn met de mogelijke overthrow.",
+      "Blijf uit de primaire play."
+    ],
+    "coach_cues": [
+      "Beweeg op contact",
+      "Back-up in lijn met de mogelijke overthrow",
+      "Blijf uit de primaire play"
+    ],
+    "common_mistakes": [
+      "Balwatching.",
+      "Te dicht achter de fielder staan.",
+      "Pas bewegen nadat de worp is gedaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor safety- of tennisballen voor hoge fly balls en controleer plafond en muren.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Outfield Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=_2FaSvB8FIk",
+      "title": "Baseball Drills | Outfield Footwork and Fly Ball",
+      "channel": "Kbands Training",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

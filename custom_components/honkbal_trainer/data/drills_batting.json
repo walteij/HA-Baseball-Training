@@ -1,0 +1,2620 @@
+[
+  {
+    "id": "batting_tee_work_basic",
+    "schema_version": 1,
+    "name": "Tee Work - Basis",
+    "name_nl": "Tee Work - Basis",
+    "category": "batting",
+    "subcategories": [
+      "contact"
+    ],
+    "skills": [
+      "contact"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Tee Work - Basis traint contact in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=qPbzeOob0Rk",
+      "title": "You’re Using the Batting Tee WRONG",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_three_zone_tee",
+    "schema_version": 1,
+    "name": "Tee-work op drie slagzones",
+    "name_nl": "Tee-work op drie slagzones",
+    "category": "batting",
+    "subcategories": [
+      "contact"
+    ],
+    "skills": [
+      "contact"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Tee-work op drie slagzones traint contact in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_high_middle_low_tee",
+    "schema_version": 1,
+    "name": "Hoge, midden- en lage tee",
+    "name_nl": "Hoge, midden- en lage tee",
+    "category": "batting",
+    "subcategories": [
+      "contact"
+    ],
+    "skills": [
+      "contact"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Hoge, midden- en lage tee traint contact in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_inside_out_tee",
+    "schema_version": 1,
+    "name": "Inside-out tee",
+    "name_nl": "Inside-out tee",
+    "category": "batting",
+    "subcategories": [
+      "contact"
+    ],
+    "skills": [
+      "contact"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Inside-out tee traint contact in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_tee_bucket_balance",
+    "schema_version": 1,
+    "name": "Tee en bucket balans",
+    "name_nl": "Tee en bucket balans",
+    "category": "batting",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Tee en bucket balans traint mechanics in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_soft_toss_side",
+    "schema_version": 1,
+    "name": "Soft toss zijwaarts",
+    "name_nl": "Soft toss zijwaarts",
+    "category": "batting",
+    "subcategories": [
+      "timing"
+    ],
+    "skills": [
+      "timing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Soft toss zijwaarts traint timing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=C7374_PQZ6k",
+      "title": "Baseball Training Tools - Soft Toss System",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_front_toss_overhand",
+    "schema_version": 1,
+    "name": "Front toss van voren",
+    "name_nl": "Front toss van voren",
+    "category": "batting",
+    "subcategories": [
+      "timing"
+    ],
+    "skills": [
+      "timing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Front toss van voren traint timing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_one_hand_top",
+    "schema_version": 1,
+    "name": "Eénhandige swing - bovenste hand",
+    "name_nl": "Eénhandige swing - bovenste hand",
+    "category": "batting",
+    "subcategories": [
+      "bat_control"
+    ],
+    "skills": [
+      "bat_control"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Eénhandige swing - bovenste hand traint bat control in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_one_hand_bottom",
+    "schema_version": 1,
+    "name": "Eénhandige swing - onderste hand",
+    "name_nl": "Eénhandige swing - onderste hand",
+    "category": "batting",
+    "subcategories": [
+      "bat_control"
+    ],
+    "skills": [
+      "bat_control"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Eénhandige swing - onderste hand traint bat control in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_mirror_swings",
+    "schema_version": 1,
+    "name": "Spiegelswings zonder bal",
+    "name_nl": "Spiegelswings zonder bal",
+    "category": "batting",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Spiegelswings zonder bal traint mechanics in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_wall_load",
+    "schema_version": 1,
+    "name": "Wall drill voor laden",
+    "name_nl": "Wall drill voor laden",
+    "category": "batting",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Wall drill voor laden traint mechanics in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_hip_rotation",
+    "schema_version": 1,
+    "name": "Heuprotatie-isolatie",
+    "name_nl": "Heuprotatie-isolatie",
+    "category": "batting",
+    "subcategories": [
+      "power"
+    ],
+    "skills": [
+      "power"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Heuprotatie-isolatie traint power in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_no_stride",
+    "schema_version": 1,
+    "name": "No-stride swings",
+    "name_nl": "No-stride swings",
+    "category": "batting",
+    "subcategories": [
+      "timing"
+    ],
+    "skills": [
+      "timing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "No-stride swings traint timing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_toe_tap",
+    "schema_version": 1,
+    "name": "Toe-tap timing",
+    "name_nl": "Toe-tap timing",
+    "category": "batting",
+    "subcategories": [
+      "timing"
+    ],
+    "skills": [
+      "timing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Toe-tap timing traint timing in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_stride_separation",
+    "schema_version": 1,
+    "name": "Stride en separation",
+    "name_nl": "Stride en separation",
+    "category": "batting",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Stride en separation traint mechanics in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_contact_point_awareness",
+    "schema_version": 1,
+    "name": "Contactpunt herkennen",
+    "name_nl": "Contactpunt herkennen",
+    "category": "batting",
+    "subcategories": [
+      "contact"
+    ],
+    "skills": [
+      "contact"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Contactpunt herkennen traint contact in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_opposite_field",
+    "schema_version": 1,
+    "name": "Slaan naar opposite field",
+    "name_nl": "Slaan naar opposite field",
+    "category": "batting",
+    "subcategories": [
+      "approach"
+    ],
+    "skills": [
+      "approach"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Slaan naar opposite field traint approach in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_two_strike_approach",
+    "schema_version": 1,
+    "name": "Two-strike approach",
+    "name_nl": "Two-strike approach",
+    "category": "batting",
+    "subcategories": [
+      "approach"
+    ],
+    "skills": [
+      "approach"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Two-strike approach traint approach in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_count_hitting",
+    "schema_version": 1,
+    "name": "Count hitting",
+    "name_nl": "Count hitting",
+    "category": "batting",
+    "subcategories": [
+      "approach"
+    ],
+    "skills": [
+      "approach"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Count hitting traint approach in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_sacrifice_bunt",
+    "schema_version": 1,
+    "name": "Sacrifice bunt",
+    "name_nl": "Sacrifice bunt",
+    "category": "batting",
+    "subcategories": [
+      "bunting"
+    ],
+    "skills": [
+      "bunting"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Sacrifice bunt traint bunting in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_bunt_base_hit",
+    "schema_version": 1,
+    "name": "Bunt voor honkslag",
+    "name_nl": "Bunt voor honkslag",
+    "category": "batting",
+    "subcategories": [
+      "bunting"
+    ],
+    "skills": [
+      "bunting"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Bunt voor honkslag traint bunting in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "batting_overload_underload",
+    "schema_version": 1,
+    "name": "Overload/underload swings",
+    "name_nl": "Overload/underload swings",
+    "category": "batting",
+    "subcategories": [
+      "power"
+    ],
+    "skills": [
+      "power"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 1,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "bat",
+      "balls",
+      "net"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "high",
+    "description": "Overload/underload swings traint power in een compacte, indoor-vriendelijke werkvorm voor volwassen beginners.",
+    "setup": [
+      "Maak één afgeschermde slaglane met net.",
+      "Zet ballen en bat buiten de swingzone klaar.",
+      "Laat één slagman werken en maximaal twee spelers voeren/verzamelen."
+    ],
+    "execution": [
+      "Voer drie rustige proefherhalingen uit.",
+      "Doe daarna twee sets van vijf tot acht kwalitatieve herhalingen.",
+      "Reset houding en doel na iedere swing; wissel na maximaal tien swings."
+    ],
+    "coaching_points": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "coach_cues": [
+      "Hoofd stil en ogen op contact.",
+      "Heupen starten vóór de handen.",
+      "Blijf in balans en sla door de bal."
+    ],
+    "common_mistakes": [
+      "Alleen met de armen slaan.",
+      "Te grote stride of hoofdbeweging.",
+      "Herhalingen afraffelen zonder duidelijke intentie."
+    ],
+    "safety_notes": [
+      "Gebruik safety- of tennisballen waar de zaal voortvluchtige harde ballen niet verdraagt.",
+      "Houd wachtende spelers buiten slag-, werp- en looplijnen.",
+      "Stop direct bij pijn, duizeligheid of gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Technische variant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar."
+      },
+      {
+        "name": "Beslisvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze of wedstrijdscore toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Hitting Drills And Mechanics.pdf",
+      "Swing Speed & Power.pdf",
+      "Tee Hitting Drills.pdf",
+      "Youth Baseball Hitting Drills.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=3ZrOASNALwg",
+      "title": "Antonelli Baseball Hitting Drills",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

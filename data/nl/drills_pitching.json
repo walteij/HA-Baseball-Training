@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "pitching_towel_drill",
+    "schema_version": 1,
+    "name": "Towel drill",
+    "name_nl": "Towel drill",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Gebruik een opgerolde handdoek in de werphand.",
+      "Doorloop de normale delivery naar een klein target vóór de pitcher.",
+      "Raak het target met het uiteinde zonder extra voorover te reiken; de finish moet uit de normale beweging komen."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=s8NF4A5ld4o",
+      "title": "Baseball Pitching Drills - The REAL Towel Drill",
+      "channel": "YouGoProBaseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_balance_point",
+    "schema_version": 1,
+    "name": "Balance point",
+    "name_nl": "Balance point",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_one_two_three_balance",
+    "schema_version": 1,
+    "name": "1-2-3 balance",
+    "name_nl": "1-2-3 balance",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_wrist_snap",
+    "schema_version": 1,
+    "name": "Wrist snap",
+    "name_nl": "Wrist snap",
+    "category": "pitching",
+    "subcategories": [
+      "release"
+    ],
+    "skills": [
+      "release"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een ontspannen en herhaalbare release ontwikkelen zonder de pols geforceerd te knikken.",
+    "setup": [
+      "Werk op korte afstand met een partner.",
+      "Gebruik lage intensiteit."
+    ],
+    "execution": [
+      "Begin met korte worpen waarbij vingers achter de bal blijven.",
+      "Laat de arm natuurlijk uitzwaaien.",
+      "Vergroot pas daarna de afstand."
+    ],
+    "coaching_points": [
+      "Vingers achter de bal.",
+      "Ontspannen hand en pols.",
+      "Laat de bal uit de vingers rollen."
+    ],
+    "coach_cues": [
+      "Vingers achter de bal",
+      "Ontspannen hand en pols",
+      "Laat de bal uit de vingers rollen"
+    ],
+    "common_mistakes": [
+      "Pols hard naar beneden knikken.",
+      "Bal in de handpalm klemmen.",
+      "Te veel kracht gebruiken."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_rocker_throws",
+    "schema_version": 1,
+    "name": "Rocker throws",
+    "name_nl": "Rocker throws",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_flat_ground",
+    "schema_version": 1,
+    "name": "Flat-ground pitching",
+    "name_nl": "Flat-ground pitching",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_target_practice",
+    "schema_version": 1,
+    "name": "Strike-zone target practice",
+    "name_nl": "Strike-zone target practice",
+    "category": "pitching",
+    "subcategories": [
+      "accuracy"
+    ],
+    "skills": [
+      "accuracy"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Command ontwikkelen door consequent naar een concreet deel van de strike zone te gooien.",
+    "setup": [
+      "Gebruik catcher of strike-zone target met 4-6 doelvakken.",
+      "Werk op een veilige indoor afstand."
+    ],
+    "execution": [
+      "Kies vóór iedere pitch één doelvak.",
+      "Gooi series van 5 pitches en tel hits.",
+      "Wissel locatie zonder de delivery te veranderen."
+    ],
+    "coaching_points": [
+      "Zelfde delivery, ander doel.",
+      "Finish naar de catcher.",
+      "Command vóór velocity."
+    ],
+    "coach_cues": [
+      "Zelfde delivery, ander doel",
+      "Finish naar de catcher",
+      "Command vóór velocity"
+    ],
+    "common_mistakes": [
+      "Sturen met alleen de arm.",
+      "Delivery veranderen voor inside/outside.",
+      "Harder gooien zodra de accuracy wegvalt."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_four_seam_command",
+    "schema_version": 1,
+    "name": "4-seam command",
+    "name_nl": "4-seam command",
+    "category": "pitching",
+    "subcategories": [
+      "accuracy"
+    ],
+    "skills": [
+      "accuracy"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Command ontwikkelen door consequent naar een concreet deel van de strike zone te gooien.",
+    "setup": [
+      "Gebruik catcher of strike-zone target met 4-6 doelvakken.",
+      "Werk op een veilige indoor afstand."
+    ],
+    "execution": [
+      "Kies vóór iedere pitch één doelvak.",
+      "Gooi series van 5 pitches en tel hits.",
+      "Wissel locatie zonder de delivery te veranderen."
+    ],
+    "coaching_points": [
+      "Zelfde delivery, ander doel.",
+      "Finish naar de catcher.",
+      "Command vóór velocity."
+    ],
+    "coach_cues": [
+      "Zelfde delivery, ander doel",
+      "Finish naar de catcher",
+      "Command vóór velocity"
+    ],
+    "common_mistakes": [
+      "Sturen met alleen de arm.",
+      "Delivery veranderen voor inside/outside.",
+      "Harder gooien zodra de accuracy wegvalt."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_two_seam_command",
+    "schema_version": 1,
+    "name": "2-seam command",
+    "name_nl": "2-seam command",
+    "category": "pitching",
+    "subcategories": [
+      "accuracy"
+    ],
+    "skills": [
+      "accuracy"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Command ontwikkelen door consequent naar een concreet deel van de strike zone te gooien.",
+    "setup": [
+      "Gebruik catcher of strike-zone target met 4-6 doelvakken.",
+      "Werk op een veilige indoor afstand."
+    ],
+    "execution": [
+      "Kies vóór iedere pitch één doelvak.",
+      "Gooi series van 5 pitches en tel hits.",
+      "Wissel locatie zonder de delivery te veranderen."
+    ],
+    "coaching_points": [
+      "Zelfde delivery, ander doel.",
+      "Finish naar de catcher.",
+      "Command vóór velocity."
+    ],
+    "coach_cues": [
+      "Zelfde delivery, ander doel",
+      "Finish naar de catcher",
+      "Command vóór velocity"
+    ],
+    "common_mistakes": [
+      "Sturen met alleen de arm.",
+      "Delivery veranderen voor inside/outside.",
+      "Harder gooien zodra de accuracy wegvalt."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_changeup_grip_throw",
+    "schema_version": 1,
+    "name": "Change-up grip en worp",
+    "name_nl": "Change-up grip en worp",
+    "category": "pitching",
+    "subcategories": [
+      "grips"
+    ],
+    "skills": [
+      "grips"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "De pitch grip leren zonder de normale armactie en arm speed te veranderen.",
+    "setup": [
+      "Laat spelers grip eerst zonder werpen oefenen.",
+      "Werk daarna op korte tot middelafstand."
+    ],
+    "execution": [
+      "Plaats de bal correct in de vingers.",
+      "Gooi eerst ontspannen catch-play.",
+      "Gebruik daarna dezelfde arm speed als bij de fastball."
+    ],
+    "coaching_points": [
+      "Grip ontspannen.",
+      "Zelfde arm speed.",
+      "Niet proneren of draaien forceren."
+    ],
+    "coach_cues": [
+      "Grip ontspannen",
+      "Zelfde arm speed",
+      "Niet proneren of draaien forceren"
+    ],
+    "common_mistakes": [
+      "Bal te diep knijpen.",
+      "Arm vertragen om snelheid uit de pitch te halen.",
+      "Onnatuurlijke polsbeweging forceren."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_power_line",
+    "schema_version": 1,
+    "name": "Power-line stride",
+    "name_nl": "Power-line stride",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_hip_shoulder_separation",
+    "schema_version": 1,
+    "name": "Hip-shoulder separation",
+    "name_nl": "Hip-shoulder separation",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_stretch_windup",
+    "schema_version": 1,
+    "name": "Stretch versus wind-up",
+    "name_nl": "Stretch versus wind-up",
+    "category": "pitching",
+    "subcategories": [
+      "mechanics"
+    ],
+    "skills": [
+      "mechanics"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een herhaalbare delivery ontwikkelen met balans, richting en een gecontroleerde finish.",
+    "setup": [
+      "Markeer een power line naar catcher of target.",
+      "Werk op vlakke zaalvloer en begin op 50-70% intentie."
+    ],
+    "execution": [
+      "Doorloop de beweging eerst zonder bal.",
+      "Gooi daarna 6-8 gecontroleerde reps.",
+      "Verhoog alleen tempo als landingsrichting en balans stabiel blijven."
+    ],
+    "coaching_points": [
+      "Beweeg richting doel.",
+      "Land rond de power line.",
+      "Finish in balans en klaar om te fielden."
+    ],
+    "coach_cues": [
+      "Beweeg richting doel",
+      "Land rond de power line",
+      "Finish in balans en klaar om te fielden"
+    ],
+    "common_mistakes": [
+      "Achterover blijven hangen.",
+      "De arm forceren om tempo te maken.",
+      "Te snel naar maximale intentie gaan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_pitcher_fielding",
+    "schema_version": 1,
+    "name": "Pitcher Fielding Practice",
+    "name_nl": "Pitcher Fielding Practice",
+    "category": "pitching",
+    "subcategories": [
+      "fielding"
+    ],
+    "skills": [
+      "fielding"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "De pitcher na de delivery direct als verdediger laten handelen.",
+    "setup": [
+      "Zet pitcher, eerste honk en/of andere relevante posities uit.",
+      "Coach rolt gecontroleerde ballen."
+    ],
+    "execution": [
+      "Pitcher maakt een gesimuleerde delivery.",
+      "Coach speelt daarna een grondbal.",
+      "Pitcher fieldt, communiceert en maakt de juiste play."
+    ],
+    "coaching_points": [
+      "Finish athletic.",
+      "Bal eerst veilig fielden.",
+      "Roep vroeg waar de play is."
+    ],
+    "coach_cues": [
+      "Finish athletic",
+      "Bal eerst veilig fielden",
+      "Roep vroeg waar de play is"
+    ],
+    "common_mistakes": [
+      "Na de pitch blijven staan.",
+      "Haasten vóór de bal gecontroleerd is.",
+      "Geen communicatie met infield."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_cover_first",
+    "schema_version": 1,
+    "name": "Pitcher cover first",
+    "name_nl": "Pitcher cover first",
+    "category": "pitching",
+    "subcategories": [
+      "fielding"
+    ],
+    "skills": [
+      "fielding"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "De pitcher na de delivery direct als verdediger laten handelen.",
+    "setup": [
+      "Zet pitcher, eerste honk en/of andere relevante posities uit.",
+      "Coach rolt gecontroleerde ballen."
+    ],
+    "execution": [
+      "Pitcher maakt een gesimuleerde delivery.",
+      "Coach speelt daarna een grondbal.",
+      "Pitcher fieldt, communiceert en maakt de juiste play."
+    ],
+    "coaching_points": [
+      "Finish athletic.",
+      "Bal eerst veilig fielden.",
+      "Roep vroeg waar de play is."
+    ],
+    "coach_cues": [
+      "Finish athletic",
+      "Bal eerst veilig fielden",
+      "Roep vroeg waar de play is"
+    ],
+    "common_mistakes": [
+      "Na de pitch blijven staan.",
+      "Haasten vóór de bal gecontroleerd is.",
+      "Geen communicatie met infield."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "pitching_tempo_reset",
+    "schema_version": 1,
+    "name": "Tempo en reset-routine",
+    "name_nl": "Tempo en reset-routine",
+    "category": "pitching",
+    "subcategories": [
+      "mental"
+    ],
+    "skills": [
+      "mental"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "high",
+    "ball_flight_risk": "medium",
+    "description": "Een vaste reset- en pre-pitchroutine gebruiken om tempo en aandacht te bewaken.",
+    "setup": [
+      "Gebruik catcher en eenvoudige situaties met wisselende uitkomsten."
+    ],
+    "execution": [
+      "Pitcher bepaalt een korte routine vóór iedere pitch.",
+      "Na een misser volgt bewust reset: adem, cue, volgende pitch.",
+      "Coach varieert count en resultaat."
+    ],
+    "coaching_points": [
+      "Volgende pitch is de enige relevante pitch.",
+      "Zelfde tempo na goed en slecht resultaat.",
+      "Korte duidelijke cue."
+    ],
+    "coach_cues": [
+      "Volgende pitch is de enige relevante pitch",
+      "Zelfde tempo na goed en slecht resultaat",
+      "Korte duidelijke cue"
+    ],
+    "common_mistakes": [
+      "Na een misser versnellen.",
+      "Te lang blijven analyseren.",
+      "Routine alleen gebruiken als het slecht gaat."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Pitching Drills and Mechanics for Youth Players.pdf",
+      "Pitching Grips and Release Points.pdf",
+      "Pitching Mechanics and Velocity.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=WhWs3_G9xsk",
+      "title": "Demonstrating The Best Pitching Drills For Youth Pitchers",
+      "channel": "Coach Dan Blewett",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

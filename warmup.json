@@ -1,0 +1,41 @@
+{
+  "duration_minutes": 20,
+  "blocks": [
+    {
+      "name": "Dynamisch stretchen",
+      "duration_minutes": 8,
+      "items": [
+        "Jogging 2 rondes",
+        "High knees",
+        "Butt kicks",
+        "Carioca",
+        "Lunges met rotatie",
+        "Inchworms 5x",
+        "Leg swings 10 per been",
+        "Arm circles 10 vooruit/achteruit"
+      ]
+    },
+    {
+      "name": "Band work en arm care",
+      "duration_minutes": 5,
+      "items": [
+        "Band pull-aparts 15x",
+        "External rotation 10x per arm",
+        "Internal rotation 10x per arm",
+        "Shoulder diagonals 10x per richting"
+      ]
+    },
+    {
+      "name": "Throwing progression",
+      "duration_minutes": 7,
+      "items": [
+        "Wrist flips 10x op 5 m",
+        "Knieworpen 10x op 10 m",
+        "Staand gooien 10x op 15 m",
+        "Shuffle & throw 10x op 20 m",
+        "Langste veilige zaalafstand 5x",
+        "Crow hop 5x"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "situational_rundown",
+    "schema_version": 1,
+    "name": "Rundown / pickle",
+    "name_nl": "Rundown / pickle",
+    "category": "situational",
+    "subcategories": [
+      "rundowns"
+    ],
+    "skills": [
+      "rundowns"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Een rundown met zo weinig mogelijk worpen afronden en de loper naar de gewenste kant dwingen.",
+    "setup": [
+      "Zet twee honken en 2-3 velders uit."
+    ],
+    "execution": [
+      "Zet loper tussen twee honken met een fielder aan elke kant.",
+      "Fielder met bal rent de loper terug en gooit pas wanneer de loper committeert.",
+      "Ontvanger vangt in beweging; werper volgt zijn worp en sluit achteraan."
+    ],
+    "coaching_points": [
+      "Run hem terug.",
+      "Eén worp als het kan.",
+      "Volg je worp."
+    ],
+    "coach_cues": [
+      "Run hem terug",
+      "Eén worp als het kan",
+      "Volg je worp"
+    ],
+    "common_mistakes": [
+      "Te vroeg gooien.",
+      "Stilstaand naar elkaar overgooien.",
+      "Werper blijft staan na de worp."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_bunt_defense",
+    "schema_version": 1,
+    "name": "Bunt defense",
+    "name_nl": "Bunt defense",
+    "category": "situational",
+    "subcategories": [
+      "bunt_defense"
+    ],
+    "skills": [
+      "bunt_defense"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Vooraf vastleggen wie de bunt fieldt en welk honk de primaire play is.",
+    "setup": [
+      "Zet pitcher, catcher, 1B, 3B en relevante honken uit."
+    ],
+    "execution": [
+      "Coach noemt lopers en outs.",
+      "Speel de bunt naar verschillende zones.",
+      "Verdediging communiceert onmiddellijk wie fieldt en maakt de vooraf gekozen play."
+    ],
+    "coaching_points": [
+      "Besluit vóór de pitch.",
+      "Roep wie de bal heeft.",
+      "Zekere out boven hero play."
+    ],
+    "coach_cues": [
+      "Besluit vóór de pitch",
+      "Roep wie de bal heeft",
+      "Zekere out boven hero play"
+    ],
+    "common_mistakes": [
+      "Twee velders naar dezelfde bunt.",
+      "Niemand dekt een honk.",
+      "Te laat beslissen waarheen te gooien."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=XOYJXt92yJg",
+      "title": "Bunt Defense - Runner on First, Bunt to 3rd Base",
+      "channel": "4baseballrox",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_first_and_third_defense",
+    "schema_version": 1,
+    "name": "Eerste-en-derde verdediging",
+    "name_nl": "Eerste-en-derde verdediging",
+    "category": "situational",
+    "subcategories": [
+      "first_and_third"
+    ],
+    "skills": [
+      "first_and_third"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Verdedigende afspraken trainen bij lopers op eerste en derde honk.",
+    "setup": [
+      "Zet catcher, middle infield, corner infield en twee lopers uit."
+    ],
+    "execution": [
+      "Coach noemt outs en gewenste defensive call.",
+      "Simuleer steal naar tweede of bluff.",
+      "Verdediging voert cutoff/throw-through/play-at-home uit en evalueert run prevention."
+    ],
+    "coaching_points": [
+      "Call vóór de pitch.",
+      "Bescherm home.",
+      "Iedereen kent zijn dekking."
+    ],
+    "coach_cues": [
+      "Call vóór de pitch",
+      "Bescherm home",
+      "Iedereen kent zijn dekking"
+    ],
+    "common_mistakes": [
+      "Automatisch naar tweede gooien.",
+      "Loper op derde vergeten.",
+      "Geen duidelijke catchercall."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_cutoff_relay",
+    "schema_version": 1,
+    "name": "Cutoff en relay situaties",
+    "name_nl": "Cutoff en relay situaties",
+    "category": "situational",
+    "subcategories": [
+      "cutoffs"
+    ],
+    "skills": [
+      "cutoffs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Cutoff en relay spelers snel in de juiste lijn en met de juiste target-call krijgen.",
+    "setup": [
+      "Zet outfield, cutoff en einddoel uit."
+    ],
+    "execution": [
+      "Speel bal naar outfield.",
+      "Cutoff komt in lijn en luistert naar de call.",
+      "Bal wordt met één snelle transfer naar juiste honk gestuurd of gecuthold."
+    ],
+    "coaching_points": [
+      "Lijn bal-doel.",
+      "Luister naar call.",
+      "Snelle vangbare transfer."
+    ],
+    "coach_cues": [
+      "Lijn bal-doel",
+      "Luister naar call",
+      "Snelle vangbare transfer"
+    ],
+    "common_mistakes": [
+      "Cutoff te dicht bij outfielder.",
+      "Rug naar einddoel.",
+      "Zonder call blind doorgooien."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_backup_responsibilities",
+    "schema_version": 1,
+    "name": "Back-up verantwoordelijkheden",
+    "name_nl": "Back-up verantwoordelijkheden",
+    "category": "situational",
+    "subcategories": [
+      "backing_up"
+    ],
+    "skills": [
+      "backing_up"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Iedere fielder leren waar hij na contact heen beweegt als hij niet de primaire play heeft.",
+    "setup": [
+      "Zet een eenvoudige volledige of halve defense uit."
+    ],
+    "execution": [
+      "Coach noemt/slat een balrichting.",
+      "Iedere speler beweegt direct naar primary, cover, cutoff of back-up.",
+      "Freeze en controleer of overthrow-lijnen afgedekt zijn."
+    ],
+    "coaching_points": [
+      "Iedereen heeft een taak.",
+      "Beweeg op contact.",
+      "Back-up diep genoeg."
+    ],
+    "coach_cues": [
+      "Iedereen heeft een taak",
+      "Beweeg op contact",
+      "Back-up diep genoeg"
+    ],
+    "common_mistakes": [
+      "Staan kijken.",
+      "Back-up te dicht achter het honk.",
+      "Alle spelers naar de bal."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_infield_in_back",
+    "schema_version": 1,
+    "name": "Infield in versus back",
+    "name_nl": "Infield in versus back",
+    "category": "situational",
+    "subcategories": [
+      "positioning"
+    ],
+    "skills": [
+      "positioning"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "De infieldpositie aanpassen aan outs, lopers en het gewenste resultaat.",
+    "setup": [
+      "Markeer normale depth, infield in en double-play depth."
+    ],
+    "execution": [
+      "Coach geeft situatie.",
+      "Spelers kiezen en benoemen hun positie.",
+      "Speel daarna een groundball om het gevolg van die positionering te ervaren."
+    ],
+    "coaching_points": [
+      "Waarom sta je hier?",
+      "Ken outs en lopers.",
+      "Maak de gewenste out mogelijk."
+    ],
+    "coach_cues": [
+      "Waarom sta je hier?",
+      "Ken outs en lopers",
+      "Maak de gewenste out mogelijk"
+    ],
+    "common_mistakes": [
+      "Zonder reden altijd dezelfde depth.",
+      "Te diep bij play at home.",
+      "Geen aanpassing per hitter/situatie."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_sacrifice_fly",
+    "schema_version": 1,
+    "name": "Sacrifice fly uitvoeren",
+    "name_nl": "Sacrifice fly uitvoeren",
+    "category": "situational",
+    "subcategories": [
+      "offense"
+    ],
+    "skills": [
+      "offense"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Aanvallende teamplay uitvoeren vanuit een duidelijke count-, out- en loperssituatie.",
+    "setup": [
+      "Zet benodigde honken, slagman en lopers uit.",
+      "Gebruik front toss of coach-fed ballen indoor."
+    ],
+    "execution": [
+      "Noem situatie en teken vóór de rep.",
+      "Lopers en slagman voeren hun deel tegelijk uit.",
+      "Stop na iedere rep kort om timing en keuze te beoordelen."
+    ],
+    "coaching_points": [
+      "Iedereen kent het teken.",
+      "Timing vóór snelheid.",
+      "Voer de opdracht uit, niet je eigen plan."
+    ],
+    "coach_cues": [
+      "Iedereen kent het teken",
+      "Timing vóór snelheid",
+      "Voer de opdracht uit, niet je eigen plan"
+    ],
+    "common_mistakes": [
+      "Loper of slagman mist het teken.",
+      "Te vroeg vertrekken.",
+      "Na mislukking niet door de situatie spelen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_hit_and_run",
+    "schema_version": 1,
+    "name": "Hit-and-run",
+    "name_nl": "Hit-and-run",
+    "category": "situational",
+    "subcategories": [
+      "offense"
+    ],
+    "skills": [
+      "offense"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Aanvallende teamplay uitvoeren vanuit een duidelijke count-, out- en loperssituatie.",
+    "setup": [
+      "Zet benodigde honken, slagman en lopers uit.",
+      "Gebruik front toss of coach-fed ballen indoor."
+    ],
+    "execution": [
+      "Start met loper op eerste en slagman aan slag.",
+      "Loper vertrekt op de pitch; slagman probeert een strike/haalbare pitch op de grond te slaan, liefst weg van de bewegende middle infielder.",
+      "Speel de situatie volledig uit."
+    ],
+    "coaching_points": [
+      "Iedereen kent het teken.",
+      "Timing vóór snelheid.",
+      "Voer de opdracht uit, niet je eigen plan."
+    ],
+    "coach_cues": [
+      "Iedereen kent het teken",
+      "Timing vóór snelheid",
+      "Voer de opdracht uit, niet je eigen plan"
+    ],
+    "common_mistakes": [
+      "Loper of slagman mist het teken.",
+      "Te vroeg vertrekken.",
+      "Na mislukking niet door de situatie spelen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_squeeze_play",
+    "schema_version": 1,
+    "name": "Squeeze play",
+    "name_nl": "Squeeze play",
+    "category": "situational",
+    "subcategories": [
+      "offense"
+    ],
+    "skills": [
+      "offense"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Aanvallende teamplay uitvoeren vanuit een duidelijke count-, out- en loperssituatie.",
+    "setup": [
+      "Zet benodigde honken, slagman en lopers uit.",
+      "Gebruik front toss of coach-fed ballen indoor."
+    ],
+    "execution": [
+      "Start met loper op derde.",
+      "Coach geeft squeeze sign; loper committeert volgens afgesproken timing.",
+      "Slagman buntt de bal veilig fair en weg van de pitcher/catcher; speel de play uit."
+    ],
+    "coaching_points": [
+      "Iedereen kent het teken.",
+      "Timing vóór snelheid.",
+      "Voer de opdracht uit, niet je eigen plan."
+    ],
+    "coach_cues": [
+      "Iedereen kent het teken",
+      "Timing vóór snelheid",
+      "Voer de opdracht uit, niet je eigen plan"
+    ],
+    "common_mistakes": [
+      "Loper of slagman mist het teken.",
+      "Te vroeg vertrekken.",
+      "Na mislukking niet door de situatie spelen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_two_out_rally",
+    "schema_version": 1,
+    "name": "Two-out rally game",
+    "name_nl": "Two-out rally game",
+    "category": "situational",
+    "subcategories": [
+      "offense"
+    ],
+    "skills": [
+      "offense"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Aanvallende teamplay uitvoeren vanuit een duidelijke count-, out- en loperssituatie.",
+    "setup": [
+      "Zet benodigde honken, slagman en lopers uit.",
+      "Gebruik front toss of coach-fed ballen indoor."
+    ],
+    "execution": [
+      "Noem situatie en teken vóór de rep.",
+      "Lopers en slagman voeren hun deel tegelijk uit.",
+      "Stop na iedere rep kort om timing en keuze te beoordelen."
+    ],
+    "coaching_points": [
+      "Iedereen kent het teken.",
+      "Timing vóór snelheid.",
+      "Voer de opdracht uit, niet je eigen plan."
+    ],
+    "coach_cues": [
+      "Iedereen kent het teken",
+      "Timing vóór snelheid",
+      "Voer de opdracht uit, niet je eigen plan"
+    ],
+    "common_mistakes": [
+      "Loper of slagman mist het teken.",
+      "Te vroeg vertrekken.",
+      "Na mislukking niet door de situatie spelen."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_force_play_choices",
+    "schema_version": 1,
+    "name": "Force-play keuzes",
+    "name_nl": "Force-play keuzes",
+    "category": "situational",
+    "subcategories": [
+      "decision_making"
+    ],
+    "skills": [
+      "decision_making"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Velders vóór contact laten bepalen waar de zekere en beste out ligt.",
+    "setup": [
+      "Zet 2-3 honken en verschillende lopercombinaties uit."
+    ],
+    "execution": [
+      "Coach noemt outs en lopers.",
+      "Voor de bal zegt iedere fielder hardop zijn primaire play.",
+      "Speel groundball en laat speler beslissen of primaire of veilige alternatieve out haalbaar is."
+    ],
+    "coaching_points": [
+      "Know before the pitch.",
+      "Zekere out eerst.",
+      "Baltempo bepaalt je keuze."
+    ],
+    "coach_cues": [
+      "Know before the pitch",
+      "Zekere out eerst",
+      "Baltempo bepaalt je keuze"
+    ],
+    "common_mistakes": [
+      "Pas na fielden nadenken.",
+      "Onhaalbare lead runner proberen.",
+      "Geen communicatie."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_pop_fly_priority",
+    "schema_version": 1,
+    "name": "Pop-fly prioriteit",
+    "name_nl": "Pop-fly prioriteit",
+    "category": "situational",
+    "subcategories": [
+      "communication"
+    ],
+    "skills": [
+      "communication"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Prioriteit bij pop-ups en gedeelde plays vooraf duidelijk en hoorbaar maken.",
+    "setup": [
+      "Gebruik 3-5 velders rond een gedeelde zone.",
+      "Indoor liefst safety ball."
+    ],
+    "execution": [
+      "Coach speelt pop-ups in overlapzones.",
+      "Speler met prioriteit callt vroeg en herhaald.",
+      "Anderen wijken uit en nemen back-up."
+    ],
+    "coaching_points": [
+      "Vroeg, luid, herhaald.",
+      "Call wint.",
+      "Back-up blijft actief."
+    ],
+    "coach_cues": [
+      "Vroeg, luid, herhaald",
+      "Call wint",
+      "Back-up blijft actief"
+    ],
+    "common_mistakes": [
+      "Iedereen callt tegelijk.",
+      "Te late call.",
+      "Na call blijven convergeren."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_signs_offense",
+    "schema_version": 1,
+    "name": "Aanvallende tekens",
+    "name_nl": "Aanvallende tekens",
+    "category": "situational",
+    "subcategories": [
+      "signs"
+    ],
+    "skills": [
+      "signs"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Aanvallende tekens herkennen, bevestigen en correct uitvoeren.",
+    "setup": [
+      "Spreek een eenvoudige signs-set af met indicator."
+    ],
+    "execution": [
+      "Coach geeft reeks tekens.",
+      "Speler benoemt intern het actieve teken en voert de opdracht uit.",
+      "Voeg daarna dummy signs en wedstrijdsituatie toe."
+    ],
+    "coaching_points": [
+      "Zie indicator en actie.",
+      "Geen zichtbare bevestiging.",
+      "Situatie blijft belangrijk."
+    ],
+    "coach_cues": [
+      "Zie indicator en actie",
+      "Geen zichtbare bevestiging",
+      "Situatie blijft belangrijk"
+    ],
+    "common_mistakes": [
+      "Alle losse tekens proberen te onthouden.",
+      "Teken missen door aandacht op veld.",
+      "Opdracht uitvoeren terwijl situatie is veranderd."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "situational_mini_scrimmage_constraints",
+    "schema_version": 1,
+    "name": "Mini-scrimmage met opdrachten",
+    "name_nl": "Mini-scrimmage met opdrachten",
+    "category": "situational",
+    "subcategories": [
+      "game_awareness"
+    ],
+    "skills": [
+      "game_awareness"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "medium",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "none",
+    "ball_flight_risk": "low",
+    "description": "Meerdere honkbalvaardigheden combineren in een korte wedstrijdvorm met duidelijke beperkingen.",
+    "setup": [
+      "Maak twee kleine teams en gebruik alleen benodigde posities/honken."
+    ],
+    "execution": [
+      "Start iedere rep met een vooraf bepaalde situatie.",
+      "Speel door tot out of score.",
+      "Roteer posities en verander constraint, bijvoorbeeld verplicht opposite field of twee outs."
+    ],
+    "coaching_points": [
+      "Ken score, outs en lopers.",
+      "Communiceer vóór de pitch.",
+      "Speel de hele situatie uit."
+    ],
+    "coach_cues": [
+      "Ken score, outs en lopers",
+      "Communiceer vóór de pitch",
+      "Speel de hele situatie uit"
+    ],
+    "common_mistakes": [
+      "Drillregels belangrijker maken dan honkbalbeslissing.",
+      "Na eerste fout stoppen.",
+      "Spelers te lang op één positie laten staan."
+    ],
+    "safety_notes": [
+      "Gebruik indoor geschikte ballen en voldoende veilige afstand tussen stations.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Baseball Strategy Breakdown.pdf",
+      "Practice Plans and Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=aTMOwKdTwAc",
+      "title": "Mastering 1st and 3rd Defense with Proven Drills",
+      "channel": "Dominate The Diamond",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "fundamentals",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

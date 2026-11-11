@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "catching_stance_setup",
+    "schema_version": 1,
+    "name": "Catcher stance en setup",
+    "name_nl": "Catcher stance en setup",
+    "category": "catching",
+    "subcategories": [
+      "receiving"
+    ],
+    "skills": [
+      "receiving"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Pitches rustig ontvangen en de glove stabiel presenteren zonder naar de bal te steken.",
+    "setup": [
+      "Catcher in gear op 10-15 meter van coach/pitcher.",
+      "Begin met voorspelbare pitches."
+    ],
+    "execution": [
+      "Neem een comfortabele receiving stance.",
+      "Ontvang 5 ballen per zone en laat de glove na vangst kort stil.",
+      "Voeg daarna wisselende locaties toe."
+    ],
+    "coaching_points": [
+      "Rustig hoofd en borst.",
+      "Werk onder de bal naar de zone.",
+      "Quiet glove bij contact."
+    ],
+    "coach_cues": [
+      "Rustig hoofd en borst",
+      "Werk onder de bal naar de zone",
+      "Quiet glove bij contact"
+    ],
+    "common_mistakes": [
+      "Op de hakken zitten.",
+      "Met de glove naar de bal steken.",
+      "Grote framing-beweging na de vangst."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_receiving_basics",
+    "schema_version": 1,
+    "name": "Receiving en framing basis",
+    "name_nl": "Receiving en framing basis",
+    "category": "catching",
+    "subcategories": [
+      "receiving"
+    ],
+    "skills": [
+      "receiving"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Pitches rustig ontvangen en de glove stabiel presenteren zonder naar de bal te steken.",
+    "setup": [
+      "Catcher in gear op 10-15 meter van coach/pitcher.",
+      "Begin met voorspelbare pitches."
+    ],
+    "execution": [
+      "Neem een comfortabele receiving stance.",
+      "Ontvang 5 ballen per zone en laat de glove na vangst kort stil.",
+      "Voeg daarna wisselende locaties toe."
+    ],
+    "coaching_points": [
+      "Rustig hoofd en borst.",
+      "Werk onder de bal naar de zone.",
+      "Quiet glove bij contact."
+    ],
+    "coach_cues": [
+      "Rustig hoofd en borst",
+      "Werk onder de bal naar de zone",
+      "Quiet glove bij contact"
+    ],
+    "common_mistakes": [
+      "Op de hakken zitten.",
+      "Met de glove naar de bal steken.",
+      "Grote framing-beweging na de vangst."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_quiet_glove",
+    "schema_version": 1,
+    "name": "Quiet-glove receiving",
+    "name_nl": "Quiet-glove receiving",
+    "category": "catching",
+    "subcategories": [
+      "receiving"
+    ],
+    "skills": [
+      "receiving"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Pitches rustig ontvangen en de glove stabiel presenteren zonder naar de bal te steken.",
+    "setup": [
+      "Catcher in gear op 10-15 meter van coach/pitcher.",
+      "Begin met voorspelbare pitches."
+    ],
+    "execution": [
+      "Neem een comfortabele receiving stance.",
+      "Ontvang 5 ballen per zone en laat de glove na vangst kort stil.",
+      "Voeg daarna wisselende locaties toe."
+    ],
+    "coaching_points": [
+      "Rustig hoofd en borst.",
+      "Werk onder de bal naar de zone.",
+      "Quiet glove bij contact."
+    ],
+    "coach_cues": [
+      "Rustig hoofd en borst",
+      "Werk onder de bal naar de zone",
+      "Quiet glove bij contact"
+    ],
+    "common_mistakes": [
+      "Op de hakken zitten.",
+      "Met de glove naar de bal steken.",
+      "Grote framing-beweging na de vangst."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_bare_hand_receiving",
+    "schema_version": 1,
+    "name": "Bare-hand receiving",
+    "name_nl": "Bare-hand receiving",
+    "category": "catching",
+    "subcategories": [
+      "receiving"
+    ],
+    "skills": [
+      "receiving"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Pitches rustig ontvangen en de glove stabiel presenteren zonder naar de bal te steken.",
+    "setup": [
+      "Catcher in gear op 10-15 meter van coach/pitcher.",
+      "Begin met voorspelbare pitches."
+    ],
+    "execution": [
+      "Gebruik uitsluitend tennis- of zachte safetyballen.",
+      "Catcher ontvangt met blote hand vanuit normale stance.",
+      "Vang zacht vóór het lichaam en laat de arm niet naar de bal steken."
+    ],
+    "coaching_points": [
+      "Rustig hoofd en borst.",
+      "Werk onder de bal naar de zone.",
+      "Quiet glove bij contact."
+    ],
+    "coach_cues": [
+      "Rustig hoofd en borst",
+      "Werk onder de bal naar de zone",
+      "Quiet glove bij contact"
+    ],
+    "common_mistakes": [
+      "Op de hakken zitten.",
+      "Met de glove naar de bal steken.",
+      "Grote framing-beweging na de vangst."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_blocking_basics",
+    "schema_version": 1,
+    "name": "Blocking basis",
+    "name_nl": "Blocking basis",
+    "category": "catching",
+    "subcategories": [
+      "blocking"
+    ],
+    "skills": [
+      "blocking"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Een pitch in de dirt vóór het lichaam houden en direct herstellen voor de vervolgactie.",
+    "setup": [
+      "Gebruik volledige catcheruitrusting.",
+      "Coach gooit gecontroleerde ballen in de dirt.",
+      "Houd een vrije zone achter de catcher."
+    ],
+    "execution": [
+      "Begin met ballen recht voor de catcher.",
+      "Zak met knieën, glove en borst achter de bal.",
+      "Voeg links/rechts toe en herstel na iedere block direct naar de bal."
+    ],
+    "coaching_points": [
+      "Borst achter de bal.",
+      "Kin omlaag, glove tussen de benen.",
+      "Block, locate, recover."
+    ],
+    "coach_cues": [
+      "Borst achter de bal",
+      "Kin omlaag, glove tussen de benen",
+      "Block, locate, recover"
+    ],
+    "common_mistakes": [
+      "Naar de bal grijpen.",
+      "Borst wegdraaien.",
+      "Na de block blijven zitten."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=htH5NjUxI2M",
+      "title": "Top 5 Blocking Drills for Catchers",
+      "channel": "Catching Made Simple",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_lateral_blocking",
+    "schema_version": 1,
+    "name": "Lateraal blocken",
+    "name_nl": "Lateraal blocken",
+    "category": "catching",
+    "subcategories": [
+      "blocking"
+    ],
+    "skills": [
+      "blocking"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Een pitch in de dirt vóór het lichaam houden en direct herstellen voor de vervolgactie.",
+    "setup": [
+      "Gebruik volledige catcheruitrusting.",
+      "Coach gooit gecontroleerde ballen in de dirt.",
+      "Houd een vrije zone achter de catcher."
+    ],
+    "execution": [
+      "Begin met ballen recht voor de catcher.",
+      "Zak met knieën, glove en borst achter de bal.",
+      "Voeg links/rechts toe en herstel na iedere block direct naar de bal."
+    ],
+    "coaching_points": [
+      "Borst achter de bal.",
+      "Kin omlaag, glove tussen de benen.",
+      "Block, locate, recover."
+    ],
+    "coach_cues": [
+      "Borst achter de bal",
+      "Kin omlaag, glove tussen de benen",
+      "Block, locate, recover"
+    ],
+    "common_mistakes": [
+      "Naar de bal grijpen.",
+      "Borst wegdraaien.",
+      "Na de block blijven zitten."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_block_recover",
+    "schema_version": 1,
+    "name": "Block en recovery",
+    "name_nl": "Block en recovery",
+    "category": "catching",
+    "subcategories": [
+      "blocking"
+    ],
+    "skills": [
+      "blocking"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Een pitch in de dirt vóór het lichaam houden en direct herstellen voor de vervolgactie.",
+    "setup": [
+      "Gebruik volledige catcheruitrusting.",
+      "Coach gooit gecontroleerde ballen in de dirt.",
+      "Houd een vrije zone achter de catcher."
+    ],
+    "execution": [
+      "Begin met ballen recht voor de catcher.",
+      "Zak met knieën, glove en borst achter de bal.",
+      "Voeg links/rechts toe en herstel na iedere block direct naar de bal."
+    ],
+    "coaching_points": [
+      "Borst achter de bal.",
+      "Kin omlaag, glove tussen de benen.",
+      "Block, locate, recover."
+    ],
+    "coach_cues": [
+      "Borst achter de bal",
+      "Kin omlaag, glove tussen de benen",
+      "Block, locate, recover"
+    ],
+    "common_mistakes": [
+      "Naar de bal grijpen.",
+      "Borst wegdraaien.",
+      "Na de block blijven zitten."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_tennis_ball_reaction",
+    "schema_version": 1,
+    "name": "Tennisbal-reactie",
+    "name_nl": "Tennisbal-reactie",
+    "category": "catching",
+    "subcategories": [
+      "blocking"
+    ],
+    "skills": [
+      "blocking"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Een pitch in de dirt vóór het lichaam houden en direct herstellen voor de vervolgactie.",
+    "setup": [
+      "Gebruik volledige catcheruitrusting.",
+      "Coach gooit gecontroleerde ballen in de dirt.",
+      "Houd een vrije zone achter de catcher."
+    ],
+    "execution": [
+      "Coach staat enkele meters voor de catcher met tennisballen.",
+      "Gooi/stuiter willekeurig links, midden of rechts.",
+      "Catcher reageert met glove/body, houdt de bal vóór zich en herstelt."
+    ],
+    "coaching_points": [
+      "Borst achter de bal.",
+      "Kin omlaag, glove tussen de benen.",
+      "Block, locate, recover."
+    ],
+    "coach_cues": [
+      "Borst achter de bal",
+      "Kin omlaag, glove tussen de benen",
+      "Block, locate, recover"
+    ],
+    "common_mistakes": [
+      "Naar de bal grijpen.",
+      "Borst wegdraaien.",
+      "Na de block blijven zitten."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_transfer_footwork",
+    "schema_version": 1,
+    "name": "Transfer en voetwerk",
+    "name_nl": "Transfer en voetwerk",
+    "category": "catching",
+    "subcategories": [
+      "throwing"
+    ],
+    "skills": [
+      "throwing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Transfer, voetwerk en release van catcher naar een honk sneller maken zonder accuracy te verliezen.",
+    "setup": [
+      "Zet catcher en target op veilige afstand.",
+      "Begin zonder loper."
+    ],
+    "execution": [
+      "Ontvang de pitch in normale stance.",
+      "Transfer snel in het midden van het lichaam en organiseer de voeten naar het doel.",
+      "Gooi een harde maar vangbare bal en reset."
+    ],
+    "coaching_points": [
+      "Voeten zetten de richting.",
+      "Handen compact.",
+      "Vangbaar is sneller dan wild."
+    ],
+    "coach_cues": [
+      "Voeten zetten de richting",
+      "Handen compact",
+      "Vangbaar is sneller dan wild"
+    ],
+    "common_mistakes": [
+      "Eerst arm gebruiken en daarna voeten.",
+      "Te grote stappen.",
+      "Gooien vóór de grip goed is."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_popup_footwork",
+    "schema_version": 1,
+    "name": "Pop-up footwork",
+    "name_nl": "Pop-up footwork",
+    "category": "catching",
+    "subcategories": [
+      "throwing"
+    ],
+    "skills": [
+      "throwing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Transfer, voetwerk en release van catcher naar een honk sneller maken zonder accuracy te verliezen.",
+    "setup": [
+      "Zet catcher en target op veilige afstand.",
+      "Begin zonder loper."
+    ],
+    "execution": [
+      "Ontvang de pitch in normale stance.",
+      "Transfer snel in het midden van het lichaam en organiseer de voeten naar het doel.",
+      "Gooi een harde maar vangbare bal en reset."
+    ],
+    "coaching_points": [
+      "Voeten zetten de richting.",
+      "Handen compact.",
+      "Vangbaar is sneller dan wild."
+    ],
+    "coach_cues": [
+      "Voeten zetten de richting",
+      "Handen compact",
+      "Vangbaar is sneller dan wild"
+    ],
+    "common_mistakes": [
+      "Eerst arm gebruiken en daarna voeten.",
+      "Te grote stappen.",
+      "Gooien vóór de grip goed is."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_throw_second",
+    "schema_version": 1,
+    "name": "Throw-down naar tweede honk",
+    "name_nl": "Throw-down naar tweede honk",
+    "category": "catching",
+    "subcategories": [
+      "throwing"
+    ],
+    "skills": [
+      "throwing"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Transfer, voetwerk en release van catcher naar een honk sneller maken zonder accuracy te verliezen.",
+    "setup": [
+      "Zet catcher en target op veilige afstand.",
+      "Begin zonder loper."
+    ],
+    "execution": [
+      "Ontvang de pitch in normale stance.",
+      "Transfer snel in het midden van het lichaam en organiseer de voeten naar het doel.",
+      "Gooi een harde maar vangbare bal en reset."
+    ],
+    "coaching_points": [
+      "Voeten zetten de richting.",
+      "Handen compact.",
+      "Vangbaar is sneller dan wild."
+    ],
+    "coach_cues": [
+      "Voeten zetten de richting",
+      "Handen compact",
+      "Vangbaar is sneller dan wild"
+    ],
+    "common_mistakes": [
+      "Eerst arm gebruiken en daarna voeten.",
+      "Te grote stappen.",
+      "Gooien vóór de grip goed is."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=RmlsQPV4OGs",
+      "title": "Catcher Footwork | Throwing To Second",
+      "channel": "Pro Speed Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "exact",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_passed_ball_recovery",
+    "schema_version": 1,
+    "name": "Passed-ball recovery",
+    "name_nl": "Passed-ball recovery",
+    "category": "catching",
+    "subcategories": [
+      "blocking"
+    ],
+    "skills": [
+      "blocking"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "Een pitch in de dirt vóór het lichaam houden en direct herstellen voor de vervolgactie.",
+    "setup": [
+      "Gebruik volledige catcheruitrusting.",
+      "Coach gooit gecontroleerde ballen in de dirt.",
+      "Houd een vrije zone achter de catcher."
+    ],
+    "execution": [
+      "Begin met ballen recht voor de catcher.",
+      "Zak met knieën, glove en borst achter de bal.",
+      "Voeg links/rechts toe en herstel na iedere block direct naar de bal."
+    ],
+    "coaching_points": [
+      "Borst achter de bal.",
+      "Kin omlaag, glove tussen de benen.",
+      "Block, locate, recover."
+    ],
+    "coach_cues": [
+      "Borst achter de bal",
+      "Kin omlaag, glove tussen de benen",
+      "Block, locate, recover"
+    ],
+    "common_mistakes": [
+      "Naar de bal grijpen.",
+      "Borst wegdraaien.",
+      "Na de block blijven zitten."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_bunt_fielding",
+    "schema_version": 1,
+    "name": "Bunt fielding catcher",
+    "name_nl": "Bunt fielding catcher",
+    "category": "catching",
+    "subcategories": [
+      "game_management"
+    ],
+    "skills": [
+      "game_management"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "De catcher laten communiceren, keuzes laten maken en de verdediging/pitcher actief sturen.",
+    "setup": [
+      "Gebruik pitcher en relevante velders.",
+      "Spreek tekens en verantwoordelijkheden vooraf af."
+    ],
+    "execution": [
+      "Geef vóór iedere rep de situatie.",
+      "Catcher geeft signaal, communiceert en reageert op de uitkomst.",
+      "Bespreek kort waarom de keuze wel of niet werkte."
+    ],
+    "coaching_points": [
+      "Praat vroeg en duidelijk.",
+      "Ken outs en lopers.",
+      "Help pitcher resetten en tempo houden."
+    ],
+    "coach_cues": [
+      "Praat vroeg en duidelijk",
+      "Ken outs en lopers",
+      "Help pitcher resetten en tempo houden"
+    ],
+    "common_mistakes": [
+      "Alleen naar de bal kijken.",
+      "Tekens geven zonder situatie te lezen.",
+      "Te laat communiceren."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_pitch_calling",
+    "schema_version": 1,
+    "name": "Pitch calling basis",
+    "name_nl": "Pitch calling basis",
+    "category": "catching",
+    "subcategories": [
+      "game_management"
+    ],
+    "skills": [
+      "game_management"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "De catcher laten communiceren, keuzes laten maken en de verdediging/pitcher actief sturen.",
+    "setup": [
+      "Gebruik pitcher en relevante velders.",
+      "Spreek tekens en verantwoordelijkheden vooraf af."
+    ],
+    "execution": [
+      "Geef vóór iedere rep de situatie.",
+      "Catcher geeft signaal, communiceert en reageert op de uitkomst.",
+      "Bespreek kort waarom de keuze wel of niet werkte."
+    ],
+    "coaching_points": [
+      "Praat vroeg en duidelijk.",
+      "Ken outs en lopers.",
+      "Help pitcher resetten en tempo houden."
+    ],
+    "coach_cues": [
+      "Praat vroeg en duidelijk",
+      "Ken outs en lopers",
+      "Help pitcher resetten en tempo houden"
+    ],
+    "common_mistakes": [
+      "Alleen naar de bal kijken.",
+      "Tekens geven zonder situatie te lezen.",
+      "Te laat communiceren."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  },
+  {
+    "id": "catching_pitcher_communication",
+    "schema_version": 1,
+    "name": "Catcher-pitcher communicatie",
+    "name_nl": "Catcher-pitcher communicatie",
+    "category": "catching",
+    "subcategories": [
+      "game_management"
+    ],
+    "skills": [
+      "game_management"
+    ],
+    "duration_minutes": {
+      "default": 15,
+      "minimum": 8,
+      "maximum": 20
+    },
+    "station_count": 1,
+    "players_min": 2,
+    "players_max": 6,
+    "players_per_station": 4,
+    "equipment_required": [
+      "balls",
+      "gloves"
+    ],
+    "equipment_optional": [
+      "cones",
+      "resistance_bands",
+      "wiffle_balls"
+    ],
+    "indoor_friendly": true,
+    "space_required": "small",
+    "ceiling_height_required": "normal",
+    "difficulty": "beginner",
+    "suitable_for_beginner_adults": true,
+    "adult_recreational_fit": "good",
+    "physical_intensity": "medium",
+    "throwing_intensity": "medium",
+    "ball_flight_risk": "low",
+    "description": "De catcher laten communiceren, keuzes laten maken en de verdediging/pitcher actief sturen.",
+    "setup": [
+      "Gebruik pitcher en relevante velders.",
+      "Spreek tekens en verantwoordelijkheden vooraf af."
+    ],
+    "execution": [
+      "Geef vóór iedere rep de situatie.",
+      "Catcher geeft signaal, communiceert en reageert op de uitkomst.",
+      "Bespreek kort waarom de keuze wel of niet werkte."
+    ],
+    "coaching_points": [
+      "Praat vroeg en duidelijk.",
+      "Ken outs en lopers.",
+      "Help pitcher resetten en tempo houden."
+    ],
+    "coach_cues": [
+      "Praat vroeg en duidelijk",
+      "Ken outs en lopers",
+      "Help pitcher resetten en tempo houden"
+    ],
+    "common_mistakes": [
+      "Alleen naar de bal kijken.",
+      "Tekens geven zonder situatie te lezen.",
+      "Te laat communiceren."
+    ],
+    "safety_notes": [
+      "Gebruik catcheruitrusting bij harde pitches/blocks; gebruik zachte ballen voor bare-hand reactiewerk.",
+      "Houd wachtende spelers buiten de actieve slag-, werp- of looplijn.",
+      "Stop bij scherpe pijn, duizeligheid of een onveilige/gladde vloer."
+    ],
+    "variations": [
+      {
+        "name": "Rustige techniekvariant",
+        "difficulty": "beginner",
+        "description": "Verlaag tempo en maak de richting voorspelbaar zodat de beweging eerst goed wordt aangeleerd."
+      },
+      {
+        "name": "Spelvariant",
+        "difficulty": "intermediate",
+        "description": "Voeg een late coachcue, keuze, score of eenvoudige wedstrijdsituatie toe."
+      }
+    ],
+    "progression_from": null,
+    "progression_to": null,
+    "related_drills": [],
+    "source_documents": [
+      "Catcher Drills.pdf"
+    ],
+    "source_pages": [],
+    "source_note": "Afgeleid en genormaliseerd uit de genoemde bronhandleidingen; paginanummers niet betrouwbaar uit de tekstextractie en daarom bewust leeg.",
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=kQDu_UF8P7g",
+      "title": "Receiving and Throwing Drills for Catchers",
+      "channel": "Antonelli Baseball",
+      "language": "en",
+      "verified_on": "2026-11-11",
+      "match_quality": "related",
+      "start_seconds": 0
+    },
+    "selection": {
+      "minimum_repeat_gap_days": 14,
+      "preferred_session_blocks": [
+        "theme_1",
+        "theme_2"
+      ],
+      "compatible_closing_drills": []
+    },
+    "tags": [
+      "indoor",
+      "beginner",
+      "adult_recreational",
+      "station"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "domain": "honkbal_trainer",
+  "name": "Honkbal Trainer",
+  "codeowners": ["@walteij"],
+  "config_flow": true,
+  "documentation": "https://github.com/walteij/HA-Baseball-Training",
+  "iot_class": "local_push",
+  "requirements": ["jsonschema>=4.19.0"],
+  "version": "1.0.0"
+}
